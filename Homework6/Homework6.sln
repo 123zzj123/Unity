@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6", "Homework6.csproj", "{0148C739-307D-1AB9-EEF0-AF693FDD6CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework6.Editor", "Homework6.Editor.csproj", "{AB0A695F-A63E-1F40-5038-AF7D0571486E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0148C739-307D-1AB9-EEF0-AF693FDD6CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0148C739-307D-1AB9-EEF0-AF693FDD6CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0148C739-307D-1AB9-EEF0-AF693FDD6CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0148C739-307D-1AB9-EEF0-AF693FDD6CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0A695F-A63E-1F40-5038-AF7D0571486E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0A695F-A63E-1F40-5038-AF7D0571486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0A695F-A63E-1F40-5038-AF7D0571486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0A695F-A63E-1F40-5038-AF7D0571486E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
