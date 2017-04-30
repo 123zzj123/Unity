@@ -64,6 +64,10 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
             blood.transform.position = role.transform.position;
             blood.transform.position += new Vector3(0, 0.2f, 0);
         }
+        if(role.transform.position.y < -10)
+        {
+            GameOver();
+        }
 	}
     void GameOver()
     {
