@@ -82,6 +82,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Resource\Scripts\Bag.cs" />
+    <Compile Include="Assets\Resource\Scripts\Board.cs" />
+    <Compile Include="Assets\Resource\Scripts\BoardManager.cs" />
+    <Compile Include="Assets\Resource\Scripts\Button2_Move.cs" />
+    <Compile Include="Assets\Resource\Scripts\Button3_Move.cs" />
     <Compile Include="Assets\Resource\Scripts\MenuManger.cs" />
     <Compile Include="Assets\Resource\Scripts\TiltWindow.cs" />
     <Compile Include="Assets\Resource\Scripts\UIimage.cs" />
@@ -89,7 +93,6 @@
   <ItemGroup>
     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurface Free Cut Out Specular.shader" />
     <None Include="Assets\Hard Surface Free\HardSurface Shaders\HardSurfacePro Hidden Front Cut Out Specular.shader" />
-    <None Include="Assets\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
