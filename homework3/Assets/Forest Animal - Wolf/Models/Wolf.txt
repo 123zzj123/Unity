@@ -1,0 +1,22 @@
+0000-0100 loop Idle 
+0101-0121 loop Attack Jump
+0123-0153 loop Attack Paw Right
+0155-0202 loop Creeping
+0204-0228 Death
+0230-0330 loop Eating 
+0332-0382 loop Fight Idle
+0384-0407 Go To Sleep
+0409-0468 loop Sleeping
+0470-0494 Wake Up 
+0496-0595 loop Howling
+0597-0620 loop Jumping
+0622-0652 Lie Down 
+0654-0713 loop Rest
+0715-0744 Stand Up
+0746-0759 loop Running
+0761-0792 loop Walk
+0794-0825 loop Walk Back
+0827-0841 loop Hit Left
+0843-0857 loop Hit Right
+0858-0872 loop Hit Front
+0873-0887 loop Hit Back
