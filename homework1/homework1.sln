@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework1", "homework1.csproj", "{0693768E-4312-0B45-25AF-B8586434F1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework1.Editor", "homework1.Editor.csproj", "{3DB3FAC4-09CA-C46B-9BBD-3C90E1015ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0693768E-4312-0B45-25AF-B8586434F1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0693768E-4312-0B45-25AF-B8586434F1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0693768E-4312-0B45-25AF-B8586434F1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0693768E-4312-0B45-25AF-B8586434F1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB3FAC4-09CA-C46B-9BBD-3C90E1015ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB3FAC4-09CA-C46B-9BBD-3C90E1015ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB3FAC4-09CA-C46B-9BBD-3C90E1015ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB3FAC4-09CA-C46B-9BBD-3C90E1015ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

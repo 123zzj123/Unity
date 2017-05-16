@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\class1\Assets\Resources\Script\InitBeh.cs">
+    <Files>
+      <File FileName="..\class1\Assets\Resources\Script\CameraScript.cs" Line="1" Column="1" />
+      <File FileName="..\class1\Assets\Resources\Script\Init1Beh.cs" Line="12" Column="24" />
+      <File FileName="..\class1\Assets\Resources\Script\InitBeh.cs" Line="10" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
