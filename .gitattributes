@@ -1,1 +1,2 @@
 a6ea7c3001326a64ea33c2ba1066bb1a filter=lfs diff=lfs merge=lfs -text
+Scene8.FBX filter=lfs diff=lfs merge=lfs -text
