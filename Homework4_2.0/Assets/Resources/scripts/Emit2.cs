@@ -15,18 +15,19 @@ public class Emit2 : SSAction
 
     public override void Start()
     {
-        speed = 5 + sceneControler.round * 5;
-        gameobject.GetComponent<DiskData2>().speed = speed;
-        startX = 6 - Random.value * 12;
+        speed = 25 * sceneControler.factory.diskPrefab.GetComponent<DiskData2>().speed;
+        //speed = 5 + sceneControler.round * 5;
+        //gameobject.GetComponent<DiskData2>().speed = speed;
+        startX = 150 + Random.value * 425;
         if (Random.value > 0.5)
         {
-            targetX = 32;
+            targetX = 800;
         }
         else
         {
-            targetX = -32;
+            targetX = -100;
         }
-        targetY = (Random.value * 25);
+        targetY = (200 + Random.value * 100);
         this.transform.position = new Vector3(startX, 0, 0);
         target = new GameObject();
         target.transform.position = new Vector3(targetX, targetY, 30);

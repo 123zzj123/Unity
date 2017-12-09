@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Homework8.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resource\Scripts\BoardManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resource\Scripts\MenuManger.cs">
     <Files>
       <File FileName="Assets\Resource\Scripts\BoardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resource\Scripts\MenuManger.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

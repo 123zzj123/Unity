@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Homework4_2.0.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\scripts\DiskFactory.cs">
+    <Files>
+      <File FileName="Assets\Resources\scripts\SceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts\FileManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts\DiskFactory.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

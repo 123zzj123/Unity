@@ -8,7 +8,7 @@ public class Recorder : MonoBehaviour {
     public float Score = 0;//分数
     public SceneController sceneControler { get; set; }
     // Use this for initialization
-    void Start () {
+    void Awake () {
         sceneControler = (SceneController)SSDirector.getInstance().currentScenceController;
         sceneControler.scoreRecorder = this;
     }

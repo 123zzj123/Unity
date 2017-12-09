@@ -8,7 +8,7 @@ public class DiskFactory : MonoBehaviour
     private static DiskFactory _instance;
     public SceneController sceneControler { get; set; }
     public Recorder scoreRecorder;
-    GameObject diskPrefab;
+    public GameObject diskPrefab;
     DiskData2 diskData;
     public List<GameObject> used;
     public List<GameObject> free;
@@ -35,7 +35,7 @@ public class DiskFactory : MonoBehaviour
     {
         if (sceneControler.num == 31 && scoreRecorder.Score >= round * 20)
         {
-            sceneControler.round++;
+            sceneControler.nextRound();
             sceneControler.num = 0;
         } 
         else if(sceneControler.num == 31 && scoreRecorder.Score < round * 20)
@@ -52,28 +52,32 @@ public class DiskFactory : MonoBehaviour
             newDisk = free[0];
             free.Remove(free[0]);
         }
-        diskData = newDisk.GetComponent<DiskData2>();
+        diskData = diskPrefab.GetComponent<DiskData2>();
+        newDisk.transform.localScale = new Vector3(25 * diskData.size, 25 * diskData.size, 25 * diskData.size);
+        newDisk.GetComponent<Renderer>().material.color = diskData.color;
+        /*
         switch (round)
         {
             case 1:
-                diskData.size = 0.8f;
-                diskData.color = Color.green;
-                newDisk.transform.localScale = new Vector3(diskData.size, diskData.size, diskData.size);
+                //diskData.size = 0.8f;
+                //diskData.color = Color.green;
+                newDisk.transform.localScale = new Vector3(25 * diskData.size, 25 * diskData.size, 25 * diskData.size);
                 newDisk.GetComponent<Renderer>().material.color = diskData.color;
                 break;
             case 2:
-                diskData.size = 0.7f;
-                diskData.color = Color.yellow;
-                newDisk.transform.localScale = new Vector3(diskData.size, diskData.size, diskData.size);
+                //diskData.size = 0.7f;
+                //diskData.color = Color.yellow;
+                newDisk.transform.localScale = new Vector3(25 * diskData.size, 25 * diskData.size, 25 * diskData.size);
                 newDisk.GetComponent<Renderer>().material.color = diskData.color;
                 break;
             case 3:
-                diskData.size = 0.6f;
-                diskData.color = Color.red;
-                newDisk.transform.localScale = new Vector3(diskData.size, diskData.size, diskData.size);
+                //diskData.size = 0.6f;
+                //diskData.color = Color.red;
+                newDisk.transform.localScale = new Vector3(25 * diskData.size, 25 * diskData.size, 25 * diskData.size);
                 newDisk.GetComponent<Renderer>().material.color = diskData.color;
                 break;
         }
+        */
         used.Add(newDisk);
         return newDisk;
     }
@@ -90,5 +94,30 @@ public class DiskFactory : MonoBehaviour
             }
         }
         return;
+    }
+}
+
+[SerializeField]
+public class GameInfo
+{
+    public string version;
+    public int totalRound;
+
+    public static GameInfo CreateFromJSON(string json)
+    {
+        return JsonUtility.FromJson<GameInfo>(json);
+    }
+}
+
+[SerializeField]
+public class LevelData
+{
+    public float size;
+    public string color;
+    public float speed;
+
+    public static LevelData CreateFromJSON(string json)
+    {
+        return JsonUtility.FromJson<LevelData>(json);
     }
 }

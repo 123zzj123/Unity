@@ -15,11 +15,11 @@ public class Button2_Move : MonoBehaviour {
     }
     // Update is called once per frame
     void Update() {
-        if (Panel.transform.FindChild("Image1").gameObject.activeSelf == false)
+        if (Panel.transform.Find("Image1").gameObject.activeSelf == false)
         {
             Return0();
         }
-        Panel.transform.FindChild("Image2").gameObject.GetComponent<RectTransform>().localPosition = new Vector3(cur_x, cur_y - 155, 0);
+        Panel.transform.Find("Image2").gameObject.GetComponent<RectTransform>().localPosition = new Vector3(cur_x, cur_y - 155, 0);
 
     }
     void Return0()
