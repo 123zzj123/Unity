@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1389128174
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: role
+      Dependencies: {}
+    Info_1:
+      Name: scene
+      Dependencies: {}
+    Info_2:
+      Name: effect
+      Dependencies: {}
+    Info_3:
+      Name: panel
+      Dependencies: {}

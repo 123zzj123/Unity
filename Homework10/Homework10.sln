@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework10", "Homework10.csproj", "{EDE43E09-BF8C-30D4-368E-7460C6EAE820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework10.Editor", "Homework10.Editor.csproj", "{89BC6A33-3647-4D2A-5ADD-1E0EBCFD0604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE43E09-BF8C-30D4-368E-7460C6EAE820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE43E09-BF8C-30D4-368E-7460C6EAE820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE43E09-BF8C-30D4-368E-7460C6EAE820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE43E09-BF8C-30D4-368E-7460C6EAE820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BC6A33-3647-4D2A-5ADD-1E0EBCFD0604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BC6A33-3647-4D2A-5ADD-1E0EBCFD0604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BC6A33-3647-4D2A-5ADD-1E0EBCFD0604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BC6A33-3647-4D2A-5ADD-1E0EBCFD0604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

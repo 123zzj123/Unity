@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2958653007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f28f7f9ee3d2bd43c5f1b00ccda65e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f8be4cc0e2f855470367af33c69e195
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: da82c71128e4bf740bc42784a1527d2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90157f26bfeb3b94abce671d0936dc00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ea5318866a25c34bb1eaabbf1902ab6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Effects5.prefab
+- Assets/Resources/Prefabs/Effects6.prefab
+- Assets/Resources/Prefabs/Effects2.prefab
+- Assets/Resources/Prefabs/Effects1.prefab
+- Assets/Resources/Prefabs/Effects4.prefab
+- Assets/Resources/Prefabs/Effects3.prefab
+Dependencies: []

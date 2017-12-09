@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3107091529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb088b9259b86c2023f9d6114afb95d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4be41c7dec0d9a7b2f3acceab385112d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f88d340102c38184bb68a08f3875b233, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ea5318866a25c34bb1eaabbf1902ab6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4730a98ef284ec64a87d58750f3a2d84, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/player1Doll.prefab
+- Assets/Resources/Prefabs/player2.prefab
+- Assets/Resources/Prefabs/player2Doll.prefab
+- Assets/Resources/Prefabs/player1.prefab
+Dependencies: []

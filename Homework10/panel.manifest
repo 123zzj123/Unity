@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2781110930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ca74e96fcd290ba70671b9a0d02a44c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71287ab4a7b265b8db4f82438d75070d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c31dd7e1677c0424db0a99bdfaed5fcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d8ed5fd6e44f704a990280071802a5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/UIPanel2.prefab
+- Assets/Resources/Prefabs/UIPanel1.prefab
+Dependencies: []
