@@ -1,0 +1,2148 @@
+fileFormatVersion: 2
+guid: 0a335a43ca0a81f48a9cb90de5d23b00
+timeCreated: 1497189367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cave_Cliff_02x02_Basic
+    100002: Cave_Cliff_02x02_Basic 1
+    100004: Cave_Cliff_02x02_Basic 10
+    100006: Cave_Cliff_02x02_Basic 2
+    100008: Cave_Cliff_02x02_Basic 3
+    100010: Cave_Cliff_02x02_Basic 4
+    100012: Cave_Cliff_02x02_Basic 5
+    100014: Cave_Cliff_02x02_Basic 6
+    100016: Cave_Cliff_02x02_Basic 7
+    100018: Cave_Cliff_02x02_Basic 8
+    100020: Cave_Cliff_02x02_Basic 9
+    100022: Cave_Cliff_02x02_Bottom
+    100024: Cave_Cliff_02x02_Bottom 1
+    100026: Cave_Cliff_02x02_Bottom 2
+    100028: Cave_Cliff_02x02_Bottom 3
+    100030: Cave_Cliff_02x02_Bottom 4
+    100032: Cave_Cliff_02x02_Bottom 5
+    100034: Cave_Cliff_02x02_Bottom 6
+    100036: Cave_Cliff_02x02_Bottom 7
+    100038: Cave_Cliff_02x02_Bottom 8
+    100040: Cave_Cliff_02x02_Bottom 9
+    100042: Cave_Cliff_02x02_CornerIn
+    100044: Cave_Cliff_02x02_CornerIn 1
+    100046: Cave_Cliff_02x02_CornerIn 10
+    100048: Cave_Cliff_02x02_CornerIn 11
+    100050: Cave_Cliff_02x02_CornerIn 2
+    100052: Cave_Cliff_02x02_CornerIn 3
+    100054: Cave_Cliff_02x02_CornerIn 4
+    100056: Cave_Cliff_02x02_CornerIn 5
+    100058: Cave_Cliff_02x02_CornerIn 6
+    100060: Cave_Cliff_02x02_CornerIn 7
+    100062: Cave_Cliff_02x02_CornerIn 8
+    100064: Cave_Cliff_02x02_CornerIn 9
+    100066: Cave_Cliff_02x02_CornerInBottom
+    100068: Cave_Cliff_02x02_CornerInBottom 1
+    100070: Cave_Cliff_02x02_CornerInBottom 2
+    100072: Cave_Cliff_02x02_CornerInBottom 3
+    100074: Cave_Cliff_02x02_CornerInBottom 4
+    100076: Cave_Cliff_02x02_CornerInBottom 5
+    100078: Cave_Cliff_02x02_CornerInBottom 6
+    100080: Cave_Cliff_02x02_CornerInBottom 7
+    100082: Cave_Cliff_02x02_CornerInBottom 8
+    100084: Cave_Cliff_02x02_CornerOut
+    100086: Cave_Cliff_02x02_CornerOut 1
+    100088: Cave_Cliff_04x02_Basic
+    100090: Cave_Cliff_04x02_Basic 1
+    100092: Cave_Cliff_04x02_Basic 2
+    100094: Cave_Cliff_04x02_Basic 3
+    100096: Cave_Cliff_04x02_Basic 4
+    100098: Cave_Cliff_04x02_Basic 5
+    100100: Cave_Cliff_04x02_Basic 6
+    100102: Cave_Cliff_04x02_Basic 7
+    100104: Cave_Cliff_04x02_Bottom
+    100106: Cave_Cliff_04x02_Bottom 1
+    100108: Cave_Cliff_04x02_Bottom 2
+    100110: Cave_Cliff_04x02_Bottom 3
+    100112: Cave_Cliff_04x02_Bottom 4
+    100114: Cave_Cliff_04x02_Bottom 5
+    100116: Cave_Cliff_48x02_Filler_01
+    100118: Cave_Cliff_48x02_Filler_01 1
+    100120: Cave_Cliff_48x02_Filler_01 2
+    100122: Cave_Cliff_48x02_Filler_01 3
+    100124: Cave_Cliff_48x02_Filler_02
+    100126: Cave_Cliff_48x02_Filler_02 1
+    100128: Cave_Floor_01
+    100130: Cave_Floor_01 1
+    100132: Cave_Floor_01 10
+    100134: Cave_Floor_01 11
+    100136: Cave_Floor_01 2
+    100138: Cave_Floor_01 3
+    100140: Cave_Floor_01 4
+    100142: Cave_Floor_01 5
+    100144: Cave_Floor_01 6
+    100146: Cave_Floor_01 7
+    100148: Cave_Floor_01 8
+    100150: Cave_Floor_01 9
+    100152: Cave_Floor_02
+    100154: Cave_Floor_02 1
+    100156: Cave_Floor_02 2
+    100158: Cave_Floor_03
+    100160: Cave_Floor_03 1
+    100162: Cave_Floor_03 2
+    100164: Cave_Floor_03 3
+    100166: Cave_Floor_03 4
+    100168: Cave_Floor_04
+    100170: Cave_Floor_04 1
+    100172: Cave_Floor_05
+    100174: Cave_Floor_05 1
+    100176: Cave_Floor_05 10
+    100178: Cave_Floor_05 11
+    100180: Cave_Floor_05 12
+    100182: Cave_Floor_05 13
+    100184: Cave_Floor_05 14
+    100186: Cave_Floor_05 15
+    100188: Cave_Floor_05 16
+    100190: Cave_Floor_05 17
+    100192: Cave_Floor_05 18
+    100194: Cave_Floor_05 19
+    100196: Cave_Floor_05 2
+    100198: Cave_Floor_05 20
+    100200: Cave_Floor_05 3
+    100202: Cave_Floor_05 4
+    100204: Cave_Floor_05 5
+    100206: Cave_Floor_05 6
+    100208: Cave_Floor_05 7
+    100210: Cave_Floor_05 8
+    100212: Cave_Floor_05 9
+    100214: Cave_Floor_06
+    100216: Cave_Floor_06 1
+    100218: Cave_Floor_06 2
+    100220: Cave_Floor_06 3
+    100222: Cave_Floor_06 4
+    100224: Cave_Floor_06 5
+    100226: Cave_Floor_06 6
+    100228: Cave_Floor_06 7
+    100230: Cave_Floor_06 8
+    100232: Cave_Floor_06 9
+    100234: Cave_Floor_PathHub
+    100236: Cave_Floor_PathHub 1
+    100238: Cave_Floor_PathHub 2
+    100240: Cave_Floor_PathHub 3
+    100242: Cave_Floor_PathHub 4
+    100244: Cave_Natural_RockBig_01
+    100246: Cave_Natural_RockBig_01 1
+    100248: Cave_Natural_RockBig_01 2
+    100250: Cave_Natural_RockBig_01 3
+    100252: Cave_Natural_RockBig_01 4
+    100254: Cave_Natural_Stalagmite_A
+    100256: Cave_Natural_Stalagmite_A 1
+    100258: Cave_Prop_Bench_01
+    100260: Cave_Prop_Bench_01 1
+    100262: Cave_Prop_Bench_01 2
+    100264: Cave_Prop_Bench_01 3
+    100266: Cave_Prop_Block_01
+    100268: Cave_Prop_Boat_003
+    100270: Cave_Prop_Boat_02
+    100272: Cave_Prop_Candle_02
+    100274: Cave_Prop_HangingL_01
+    100276: Cave_Prop_HangingR_01
+    100278: Cave_Prop_Pot_A
+    100280: Cave_Prop_Pot_A 1
+    100282: Cave_Prop_Pot_A 2
+    100284: Cave_Prop_Pot_B
+    100286: Cave_Prop_Pot_B 1
+    100288: Cave_Prop_Rubble_01
+    100290: Cave_Prop_Rug_01
+    100292: Cave_Prop_Rug_01 1
+    100294: Cave_Prop_Rug_01 2
+    100296: Cave_Prop_Table_01
+    100298: Cave_Prop_Table_03
+    100300: Cave_Railing_01x01_CornerOut
+    100302: Cave_Railing_01x01_CornerOut 1
+    100304: Cave_Railing_02x01
+    100306: Cave_Railing_02x01 1
+    100308: Cave_Railing_02x01 2
+    100310: Cave_Railing_02x01 3
+    100312: Cave_Railing_02x01 4
+    100314: Cave_Railing_02x01 5
+    100316: Cave_Railing_02x01 6
+    100318: Cave_Railing_02x01 7
+    100320: Cave_Railing_02x01 8
+    100322: Cave_Stairs_01x01_CapTop
+    100324: Cave_Stairs_01x01_CapTop 1
+    100326: Cave_Stairs_01x01_CapTop 10
+    100328: Cave_Stairs_01x01_CapTop 11
+    100330: Cave_Stairs_01x01_CapTop 12
+    100332: Cave_Stairs_01x01_CapTop 13
+    100334: Cave_Stairs_01x01_CapTop 2
+    100336: Cave_Stairs_01x01_CapTop 3
+    100338: Cave_Stairs_01x01_CapTop 4
+    100340: Cave_Stairs_01x01_CapTop 5
+    100342: Cave_Stairs_01x01_CapTop 6
+    100344: Cave_Stairs_01x01_CapTop 7
+    100346: Cave_Stairs_01x01_CapTop 8
+    100348: Cave_Stairs_01x01_CapTop 9
+    100350: Cave_Stairs_02x02_Bannister
+    100352: Cave_Stairs_02x02_Bannister 1
+    100354: Cave_Stairs_02x02_Bannister 10
+    100356: Cave_Stairs_02x02_Bannister 11
+    100358: Cave_Stairs_02x02_Bannister 12
+    100360: Cave_Stairs_02x02_Bannister 13
+    100362: Cave_Stairs_02x02_Bannister 14
+    100364: Cave_Stairs_02x02_Bannister 15
+    100366: Cave_Stairs_02x02_Bannister 16
+    100368: Cave_Stairs_02x02_Bannister 17
+    100370: Cave_Stairs_02x02_Bannister 18
+    100372: Cave_Stairs_02x02_Bannister 19
+    100374: Cave_Stairs_02x02_Bannister 2
+    100376: Cave_Stairs_02x02_Bannister 3
+    100378: Cave_Stairs_02x02_Bannister 4
+    100380: Cave_Stairs_02x02_Bannister 5
+    100382: Cave_Stairs_02x02_Bannister 6
+    100384: Cave_Stairs_02x02_Bannister 7
+    100386: Cave_Stairs_02x02_Bannister 8
+    100388: Cave_Stairs_02x02_Bannister 9
+    100390: Cave_Stairs_02x02_BannisterHalf
+    100392: Cave_Stairs_02x02_BannisterHalf 1
+    100394: Cave_Stairs_02x02_BannisterHalf 2
+    100396: Cave_Stairs_02x02_BannisterHalf 3
+    100398: Cave_Stairs_02x02_BannisterHalf 4
+    100400: Cave_Stairs_02x02_BannisterHalf 5
+    100402: Cave_Stairs_02x02_BannisterHalf 6
+    100404: Cave_Stairs_02x02_BannisterHalf 7
+    100406: Cave_Stairs_02x02_BannisterHalf 8
+    100408: Cave_Stairs_02x02_Basic
+    100410: Cave_Stairs_02x02_Basic 1
+    100412: Cave_Stairs_02x02_Basic 10
+    100414: Cave_Stairs_02x02_Basic 11
+    100416: Cave_Stairs_02x02_Basic 12
+    100418: Cave_Stairs_02x02_Basic 13
+    100420: Cave_Stairs_02x02_Basic 14
+    100422: Cave_Stairs_02x02_Basic 15
+    100424: Cave_Stairs_02x02_Basic 16
+    100426: Cave_Stairs_02x02_Basic 17
+    100428: Cave_Stairs_02x02_Basic 18
+    100430: Cave_Stairs_02x02_Basic 19
+    100432: Cave_Stairs_02x02_Basic 2
+    100434: Cave_Stairs_02x02_Basic 20
+    100436: Cave_Stairs_02x02_Basic 21
+    100438: Cave_Stairs_02x02_Basic 3
+    100440: Cave_Stairs_02x02_Basic 4
+    100442: Cave_Stairs_02x02_Basic 5
+    100444: Cave_Stairs_02x02_Basic 6
+    100446: Cave_Stairs_02x02_Basic 7
+    100448: Cave_Stairs_02x02_Basic 8
+    100450: Cave_Stairs_02x02_Basic 9
+    100452: Cave_Stairs_03x02_Basic
+    100454: Cave_Stairs_03x02_Basic 1
+    100456: Cave_Stairs_03x02_Basic 2
+    100458: Cave_Stairs_03x02_Basic 3
+    100460: Cave_Stairs_BottomL
+    100462: Cave_Stairs_BottomL 1
+    100464: Cave_Stairs_BottomL 2
+    100466: Cave_Stairs_BottomL 3
+    100468: Cave_Stairs_BottomL 4
+    100470: Cave_Stairs_BottomL 5
+    100472: Cave_Stairs_BottomL_02
+    100474: Cave_Stairs_BottomL_02 1
+    100476: Cave_Stairs_BottomR
+    100478: Cave_Stairs_BottomR_02
+    100480: Cave_Stairs_BottomR_02 1
+    100482: Cave_Statue_LionFemale_01
+    100484: Cave_Statue_LionFemale_01 1
+    100486: Cave_Statue_LionFemale_01 2
+    100488: Cave_Statue_LionFemale_ArmL_B
+    100490: Cave_Statue_LionFemale_ArmL_C
+    100492: Cave_Statue_LionFemale_ArmR_B
+    100494: Cave_Statue_LionFemale_ArmR_C
+    100496: Cave_Statue_LionMale_01
+    100498: Cave_Statue_LionMale_01 1
+    100500: Cave_Statue_LionMale_01 2
+    100502: Cave_Statue_LionMale_01 3
+    100504: Cave_Statue_LionMale_ArmL_A
+    100506: Cave_Statue_LionMale_ArmL_B
+    100508: Cave_Statue_LionMale_ArmR_A
+    100510: Cave_Statue_LionMale_ArmR_B
+    100512: Cave_Wall_01x01_CornerOut
+    100514: Cave_Wall_01x01_CornerOut 1
+    100516: Cave_Wall_01x01_CornerOut 2
+    100518: Cave_Wall_01x01_CornerOut 3
+    100520: Cave_Wall_01x01_CornerOut 4
+    100522: Cave_Wall_01x01_CornerOut 5
+    100524: Cave_Wall_01x01_CornerOutShort
+    100526: Cave_Wall_01x01_CornerOutShort 1
+    100528: Cave_Wall_01x01_CornerOutShort 10
+    100530: Cave_Wall_01x01_CornerOutShort 11
+    100532: Cave_Wall_01x01_CornerOutShort 12
+    100534: Cave_Wall_01x01_CornerOutShort 13
+    100536: Cave_Wall_01x01_CornerOutShort 14
+    100538: Cave_Wall_01x01_CornerOutShort 2
+    100540: Cave_Wall_01x01_CornerOutShort 3
+    100542: Cave_Wall_01x01_CornerOutShort 4
+    100544: Cave_Wall_01x01_CornerOutShort 5
+    100546: Cave_Wall_01x01_CornerOutShort 6
+    100548: Cave_Wall_01x01_CornerOutShort 7
+    100550: Cave_Wall_01x01_CornerOutShort 8
+    100552: Cave_Wall_01x01_CornerOutShort 9
+    100554: Cave_Wall_01x04_Bottom
+    100556: Cave_Wall_01x04_Bottom 1
+    100558: Cave_Wall_01x04_Bottom 10
+    100560: Cave_Wall_01x04_Bottom 11
+    100562: Cave_Wall_01x04_Bottom 12
+    100564: Cave_Wall_01x04_Bottom 13
+    100566: Cave_Wall_01x04_Bottom 2
+    100568: Cave_Wall_01x04_Bottom 3
+    100570: Cave_Wall_01x04_Bottom 4
+    100572: Cave_Wall_01x04_Bottom 5
+    100574: Cave_Wall_01x04_Bottom 6
+    100576: Cave_Wall_01x04_Bottom 7
+    100578: Cave_Wall_01x04_Bottom 8
+    100580: Cave_Wall_01x04_Bottom 9
+    100582: Cave_Wall_01x04_BottomCornerIn
+    100584: Cave_Wall_01x04_BottomCornerIn 1
+    100586: Cave_Wall_01x04_BottomCornerIn 2
+    100588: Cave_Wall_01x04_BottomCornerIn 3
+    100590: Cave_Wall_01x04_BottomCornerIn 4
+    100592: Cave_Wall_01x04_BottomCornerIn 5
+    100594: Cave_Wall_01x04_BottomCornerOut
+    100596: Cave_Wall_01x04_BottomCornerOut 1
+    100598: Cave_Wall_01x04_BottomCornerOut 10
+    100600: Cave_Wall_01x04_BottomCornerOut 11
+    100602: Cave_Wall_01x04_BottomCornerOut 12
+    100604: Cave_Wall_01x04_BottomCornerOut 13
+    100606: Cave_Wall_01x04_BottomCornerOut 14
+    100608: Cave_Wall_01x04_BottomCornerOut 15
+    100610: Cave_Wall_01x04_BottomCornerOut 16
+    100612: Cave_Wall_01x04_BottomCornerOut 17
+    100614: Cave_Wall_01x04_BottomCornerOut 18
+    100616: Cave_Wall_01x04_BottomCornerOut 19
+    100618: Cave_Wall_01x04_BottomCornerOut 2
+    100620: Cave_Wall_01x04_BottomCornerOut 20
+    100622: Cave_Wall_01x04_BottomCornerOut 21
+    100624: Cave_Wall_01x04_BottomCornerOut 22
+    100626: Cave_Wall_01x04_BottomCornerOut 3
+    100628: Cave_Wall_01x04_BottomCornerOut 4
+    100630: Cave_Wall_01x04_BottomCornerOut 5
+    100632: Cave_Wall_01x04_BottomCornerOut 6
+    100634: Cave_Wall_01x04_BottomCornerOut 7
+    100636: Cave_Wall_01x04_BottomCornerOut 8
+    100638: Cave_Wall_01x04_BottomCornerOut 9
+    100640: Cave_Wall_02x01_Basic
+    100642: Cave_Wall_02x01_Basic 1
+    100644: Cave_Wall_02x01_Basic 2
+    100646: Cave_Wall_02x01_Basic 3
+    100648: Cave_Wall_02x01_Short
+    100650: Cave_Wall_02x01_Short 1
+    100652: Cave_Wall_02x01_Short 10
+    100654: Cave_Wall_02x01_Short 11
+    100656: Cave_Wall_02x01_Short 12
+    100658: Cave_Wall_02x01_Short 13
+    100660: Cave_Wall_02x01_Short 14
+    100662: Cave_Wall_02x01_Short 15
+    100664: Cave_Wall_02x01_Short 16
+    100666: Cave_Wall_02x01_Short 17
+    100668: Cave_Wall_02x01_Short 18
+    100670: Cave_Wall_02x01_Short 19
+    100672: Cave_Wall_02x01_Short 2
+    100674: Cave_Wall_02x01_Short 20
+    100676: Cave_Wall_02x01_Short 21
+    100678: Cave_Wall_02x01_Short 22
+    100680: Cave_Wall_02x01_Short 23
+    100682: Cave_Wall_02x01_Short 24
+    100684: Cave_Wall_02x01_Short 3
+    100686: Cave_Wall_02x01_Short 4
+    100688: Cave_Wall_02x01_Short 5
+    100690: Cave_Wall_02x01_Short 6
+    100692: Cave_Wall_02x01_Short 7
+    100694: Cave_Wall_02x01_Short 8
+    100696: Cave_Wall_02x01_Short 9
+    100698: Cave_Wall_02x01_Short_Broke
+    100700: Cave_Wall_02x02_CornerIn
+    100702: Cave_Wall_02x02_CornerIn 1
+    100704: Cave_Wall_02x02_CornerIn 2
+    100706: Cave_Wall_02x02_CornerIn 3
+    100708: Cave_Wall_02x02_CornerIn 4
+    100710: Cave_Wall_02x02_CornerIn 5
+    100712: Cave_Wall_02x02_CornerIn 6
+    100714: Cave_Wall_02x02_CornerIn 7
+    100716: Cave_Wall_02x02_CornerInShort
+    100718: Cave_Wall_02x02_CornerInShort 1
+    100720: Cave_Wall_02x02_CornerInShort 2
+    100722: Cave_Wall_02x02_CornerInShort 3
+    100724: Cave_Wall_04x01_Basic
+    100726: Cave_Wall_04x01_Basic 1
+    100728: Cave_Wall_04x01_Basic 2
+    100730: Cave_Wall_04x01_Basic 3
+    100732: Cave_Wall_04x01_Basic 4
+    100734: Cave_Wall_04x01_Basic_Broken
+    100736: Cave_Wall_04x01_Nook
+    100738: Cave_Wall_04x04_Bottom
+    100740: Cave_Wall_04x04_Bottom 1
+    100742: Cave_Wall_Arch_Full
+    100744: Cave_Wall_PillarLarge
+    100746: Cave_Wall_PillarLarge 1
+    100748: Cave_Wall_PillarLarge 2
+    100750: Cave_Wall_PillarLarge 3
+    100752: Cave_Wall_PillarLarge 4
+    100754: Cave_Wall_PillarLarge 5
+    100756: Cave_Wall_PillarLarge 6
+    100758: Cave_Wall_PillarLargeBottom
+    100760: Cave_Wall_PillarLargeBottom 1
+    100762: Cave_Wall_PillarLargeBottom 2
+    100764: Cave_Wall_PillarLargeBottom 3
+    100766: Cave_Wall_ShortEndL
+    100768: Cave_Wall_ShortEndL 1
+    100770: Cave_Wall_ShortEndL 2
+    100772: Cave_Wall_ShortEndL 3
+    100774: Cave_Wall_ShortEndL 4
+    100776: Cave_Wall_ShortEndL 5
+    100778: Cave_Wall_ShortEndL 6
+    100780: Cave_Wall_ShortEndL 7
+    100782: Cave_Wall_ShortEndL 8
+    100784: Cave_Wall_ShortEndL 9
+    100786: Cave_Wall_ShortEndLBottom
+    100788: Cave_Wall_ShortEndLBottom 1
+    100790: Cave_Wall_ShortEndLBottom 2
+    100792: Cave_Wall_ShortEndLBottom 3
+    100794: Cave_Wall_ShortEndR
+    100796: Cave_Wall_ShortEndR 1
+    100798: Cave_Wall_ShortEndR 2
+    100800: Cave_Wall_ShortEndR 3
+    100802: Cave_Wall_ShortEndR 4
+    100804: Cave_Wall_ShortEndR 5
+    100806: Cave_Wall_ShortEndR 6
+    100808: Cave_Wall_ShortEndR 7
+    100810: Cave_Wall_ShortEndRBottom
+    100812: Cave_Wall_ShortEndRBottom 1
+    100814: Cave_Wall_ShortEndRBottom 2
+    100816: Cave_Wall_ShortEndRBottom 3
+    100818: Cave_Water_WaterPlane_02
+    100820: Cave_Water_WaterPlane_03
+    100822: FX_Water_Ripple_06
+    100824: FX_Water_Ripple_06 1
+    100826: FX_Water_Ripple_06 2
+    100828: //RootNode
+    400000: Cave_Cliff_02x02_Basic
+    400002: Cave_Cliff_02x02_Basic 1
+    400004: Cave_Cliff_02x02_Basic 10
+    400006: Cave_Cliff_02x02_Basic 2
+    400008: Cave_Cliff_02x02_Basic 3
+    400010: Cave_Cliff_02x02_Basic 4
+    400012: Cave_Cliff_02x02_Basic 5
+    400014: Cave_Cliff_02x02_Basic 6
+    400016: Cave_Cliff_02x02_Basic 7
+    400018: Cave_Cliff_02x02_Basic 8
+    400020: Cave_Cliff_02x02_Basic 9
+    400022: Cave_Cliff_02x02_Bottom
+    400024: Cave_Cliff_02x02_Bottom 1
+    400026: Cave_Cliff_02x02_Bottom 2
+    400028: Cave_Cliff_02x02_Bottom 3
+    400030: Cave_Cliff_02x02_Bottom 4
+    400032: Cave_Cliff_02x02_Bottom 5
+    400034: Cave_Cliff_02x02_Bottom 6
+    400036: Cave_Cliff_02x02_Bottom 7
+    400038: Cave_Cliff_02x02_Bottom 8
+    400040: Cave_Cliff_02x02_Bottom 9
+    400042: Cave_Cliff_02x02_CornerIn
+    400044: Cave_Cliff_02x02_CornerIn 1
+    400046: Cave_Cliff_02x02_CornerIn 10
+    400048: Cave_Cliff_02x02_CornerIn 11
+    400050: Cave_Cliff_02x02_CornerIn 2
+    400052: Cave_Cliff_02x02_CornerIn 3
+    400054: Cave_Cliff_02x02_CornerIn 4
+    400056: Cave_Cliff_02x02_CornerIn 5
+    400058: Cave_Cliff_02x02_CornerIn 6
+    400060: Cave_Cliff_02x02_CornerIn 7
+    400062: Cave_Cliff_02x02_CornerIn 8
+    400064: Cave_Cliff_02x02_CornerIn 9
+    400066: Cave_Cliff_02x02_CornerInBottom
+    400068: Cave_Cliff_02x02_CornerInBottom 1
+    400070: Cave_Cliff_02x02_CornerInBottom 2
+    400072: Cave_Cliff_02x02_CornerInBottom 3
+    400074: Cave_Cliff_02x02_CornerInBottom 4
+    400076: Cave_Cliff_02x02_CornerInBottom 5
+    400078: Cave_Cliff_02x02_CornerInBottom 6
+    400080: Cave_Cliff_02x02_CornerInBottom 7
+    400082: Cave_Cliff_02x02_CornerInBottom 8
+    400084: Cave_Cliff_02x02_CornerOut
+    400086: Cave_Cliff_02x02_CornerOut 1
+    400088: Cave_Cliff_04x02_Basic
+    400090: Cave_Cliff_04x02_Basic 1
+    400092: Cave_Cliff_04x02_Basic 2
+    400094: Cave_Cliff_04x02_Basic 3
+    400096: Cave_Cliff_04x02_Basic 4
+    400098: Cave_Cliff_04x02_Basic 5
+    400100: Cave_Cliff_04x02_Basic 6
+    400102: Cave_Cliff_04x02_Basic 7
+    400104: Cave_Cliff_04x02_Bottom
+    400106: Cave_Cliff_04x02_Bottom 1
+    400108: Cave_Cliff_04x02_Bottom 2
+    400110: Cave_Cliff_04x02_Bottom 3
+    400112: Cave_Cliff_04x02_Bottom 4
+    400114: Cave_Cliff_04x02_Bottom 5
+    400116: Cave_Cliff_48x02_Filler_01
+    400118: Cave_Cliff_48x02_Filler_01 1
+    400120: Cave_Cliff_48x02_Filler_01 2
+    400122: Cave_Cliff_48x02_Filler_01 3
+    400124: Cave_Cliff_48x02_Filler_02
+    400126: Cave_Cliff_48x02_Filler_02 1
+    400128: Cave_Floor_01
+    400130: Cave_Floor_01 1
+    400132: Cave_Floor_01 10
+    400134: Cave_Floor_01 11
+    400136: Cave_Floor_01 2
+    400138: Cave_Floor_01 3
+    400140: Cave_Floor_01 4
+    400142: Cave_Floor_01 5
+    400144: Cave_Floor_01 6
+    400146: Cave_Floor_01 7
+    400148: Cave_Floor_01 8
+    400150: Cave_Floor_01 9
+    400152: Cave_Floor_02
+    400154: Cave_Floor_02 1
+    400156: Cave_Floor_02 2
+    400158: Cave_Floor_03
+    400160: Cave_Floor_03 1
+    400162: Cave_Floor_03 2
+    400164: Cave_Floor_03 3
+    400166: Cave_Floor_03 4
+    400168: Cave_Floor_04
+    400170: Cave_Floor_04 1
+    400172: Cave_Floor_05
+    400174: Cave_Floor_05 1
+    400176: Cave_Floor_05 10
+    400178: Cave_Floor_05 11
+    400180: Cave_Floor_05 12
+    400182: Cave_Floor_05 13
+    400184: Cave_Floor_05 14
+    400186: Cave_Floor_05 15
+    400188: Cave_Floor_05 16
+    400190: Cave_Floor_05 17
+    400192: Cave_Floor_05 18
+    400194: Cave_Floor_05 19
+    400196: Cave_Floor_05 2
+    400198: Cave_Floor_05 20
+    400200: Cave_Floor_05 3
+    400202: Cave_Floor_05 4
+    400204: Cave_Floor_05 5
+    400206: Cave_Floor_05 6
+    400208: Cave_Floor_05 7
+    400210: Cave_Floor_05 8
+    400212: Cave_Floor_05 9
+    400214: Cave_Floor_06
+    400216: Cave_Floor_06 1
+    400218: Cave_Floor_06 2
+    400220: Cave_Floor_06 3
+    400222: Cave_Floor_06 4
+    400224: Cave_Floor_06 5
+    400226: Cave_Floor_06 6
+    400228: Cave_Floor_06 7
+    400230: Cave_Floor_06 8
+    400232: Cave_Floor_06 9
+    400234: Cave_Floor_PathHub
+    400236: Cave_Floor_PathHub 1
+    400238: Cave_Floor_PathHub 2
+    400240: Cave_Floor_PathHub 3
+    400242: Cave_Floor_PathHub 4
+    400244: Cave_Natural_RockBig_01
+    400246: Cave_Natural_RockBig_01 1
+    400248: Cave_Natural_RockBig_01 2
+    400250: Cave_Natural_RockBig_01 3
+    400252: Cave_Natural_RockBig_01 4
+    400254: Cave_Natural_Stalagmite_A
+    400256: Cave_Natural_Stalagmite_A 1
+    400258: Cave_Prop_Bench_01
+    400260: Cave_Prop_Bench_01 1
+    400262: Cave_Prop_Bench_01 2
+    400264: Cave_Prop_Bench_01 3
+    400266: Cave_Prop_Block_01
+    400268: Cave_Prop_Boat_003
+    400270: Cave_Prop_Boat_02
+    400272: Cave_Prop_Candle_02
+    400274: Cave_Prop_HangingL_01
+    400276: Cave_Prop_HangingR_01
+    400278: Cave_Prop_Pot_A
+    400280: Cave_Prop_Pot_A 1
+    400282: Cave_Prop_Pot_A 2
+    400284: Cave_Prop_Pot_B
+    400286: Cave_Prop_Pot_B 1
+    400288: Cave_Prop_Rubble_01
+    400290: Cave_Prop_Rug_01
+    400292: Cave_Prop_Rug_01 1
+    400294: Cave_Prop_Rug_01 2
+    400296: Cave_Prop_Table_01
+    400298: Cave_Prop_Table_03
+    400300: Cave_Railing_01x01_CornerOut
+    400302: Cave_Railing_01x01_CornerOut 1
+    400304: Cave_Railing_02x01
+    400306: Cave_Railing_02x01 1
+    400308: Cave_Railing_02x01 2
+    400310: Cave_Railing_02x01 3
+    400312: Cave_Railing_02x01 4
+    400314: Cave_Railing_02x01 5
+    400316: Cave_Railing_02x01 6
+    400318: Cave_Railing_02x01 7
+    400320: Cave_Railing_02x01 8
+    400322: Cave_Stairs_01x01_CapTop
+    400324: Cave_Stairs_01x01_CapTop 1
+    400326: Cave_Stairs_01x01_CapTop 10
+    400328: Cave_Stairs_01x01_CapTop 11
+    400330: Cave_Stairs_01x01_CapTop 12
+    400332: Cave_Stairs_01x01_CapTop 13
+    400334: Cave_Stairs_01x01_CapTop 2
+    400336: Cave_Stairs_01x01_CapTop 3
+    400338: Cave_Stairs_01x01_CapTop 4
+    400340: Cave_Stairs_01x01_CapTop 5
+    400342: Cave_Stairs_01x01_CapTop 6
+    400344: Cave_Stairs_01x01_CapTop 7
+    400346: Cave_Stairs_01x01_CapTop 8
+    400348: Cave_Stairs_01x01_CapTop 9
+    400350: Cave_Stairs_02x02_Bannister
+    400352: Cave_Stairs_02x02_Bannister 1
+    400354: Cave_Stairs_02x02_Bannister 10
+    400356: Cave_Stairs_02x02_Bannister 11
+    400358: Cave_Stairs_02x02_Bannister 12
+    400360: Cave_Stairs_02x02_Bannister 13
+    400362: Cave_Stairs_02x02_Bannister 14
+    400364: Cave_Stairs_02x02_Bannister 15
+    400366: Cave_Stairs_02x02_Bannister 16
+    400368: Cave_Stairs_02x02_Bannister 17
+    400370: Cave_Stairs_02x02_Bannister 18
+    400372: Cave_Stairs_02x02_Bannister 19
+    400374: Cave_Stairs_02x02_Bannister 2
+    400376: Cave_Stairs_02x02_Bannister 3
+    400378: Cave_Stairs_02x02_Bannister 4
+    400380: Cave_Stairs_02x02_Bannister 5
+    400382: Cave_Stairs_02x02_Bannister 6
+    400384: Cave_Stairs_02x02_Bannister 7
+    400386: Cave_Stairs_02x02_Bannister 8
+    400388: Cave_Stairs_02x02_Bannister 9
+    400390: Cave_Stairs_02x02_BannisterHalf
+    400392: Cave_Stairs_02x02_BannisterHalf 1
+    400394: Cave_Stairs_02x02_BannisterHalf 2
+    400396: Cave_Stairs_02x02_BannisterHalf 3
+    400398: Cave_Stairs_02x02_BannisterHalf 4
+    400400: Cave_Stairs_02x02_BannisterHalf 5
+    400402: Cave_Stairs_02x02_BannisterHalf 6
+    400404: Cave_Stairs_02x02_BannisterHalf 7
+    400406: Cave_Stairs_02x02_BannisterHalf 8
+    400408: Cave_Stairs_02x02_Basic
+    400410: Cave_Stairs_02x02_Basic 1
+    400412: Cave_Stairs_02x02_Basic 10
+    400414: Cave_Stairs_02x02_Basic 11
+    400416: Cave_Stairs_02x02_Basic 12
+    400418: Cave_Stairs_02x02_Basic 13
+    400420: Cave_Stairs_02x02_Basic 14
+    400422: Cave_Stairs_02x02_Basic 15
+    400424: Cave_Stairs_02x02_Basic 16
+    400426: Cave_Stairs_02x02_Basic 17
+    400428: Cave_Stairs_02x02_Basic 18
+    400430: Cave_Stairs_02x02_Basic 19
+    400432: Cave_Stairs_02x02_Basic 2
+    400434: Cave_Stairs_02x02_Basic 20
+    400436: Cave_Stairs_02x02_Basic 21
+    400438: Cave_Stairs_02x02_Basic 3
+    400440: Cave_Stairs_02x02_Basic 4
+    400442: Cave_Stairs_02x02_Basic 5
+    400444: Cave_Stairs_02x02_Basic 6
+    400446: Cave_Stairs_02x02_Basic 7
+    400448: Cave_Stairs_02x02_Basic 8
+    400450: Cave_Stairs_02x02_Basic 9
+    400452: Cave_Stairs_03x02_Basic
+    400454: Cave_Stairs_03x02_Basic 1
+    400456: Cave_Stairs_03x02_Basic 2
+    400458: Cave_Stairs_03x02_Basic 3
+    400460: Cave_Stairs_BottomL
+    400462: Cave_Stairs_BottomL 1
+    400464: Cave_Stairs_BottomL 2
+    400466: Cave_Stairs_BottomL 3
+    400468: Cave_Stairs_BottomL 4
+    400470: Cave_Stairs_BottomL 5
+    400472: Cave_Stairs_BottomL_02
+    400474: Cave_Stairs_BottomL_02 1
+    400476: Cave_Stairs_BottomR
+    400478: Cave_Stairs_BottomR_02
+    400480: Cave_Stairs_BottomR_02 1
+    400482: Cave_Statue_LionFemale_01
+    400484: Cave_Statue_LionFemale_01 1
+    400486: Cave_Statue_LionFemale_01 2
+    400488: Cave_Statue_LionFemale_ArmL_B
+    400490: Cave_Statue_LionFemale_ArmL_C
+    400492: Cave_Statue_LionFemale_ArmR_B
+    400494: Cave_Statue_LionFemale_ArmR_C
+    400496: Cave_Statue_LionMale_01
+    400498: Cave_Statue_LionMale_01 1
+    400500: Cave_Statue_LionMale_01 2
+    400502: Cave_Statue_LionMale_01 3
+    400504: Cave_Statue_LionMale_ArmL_A
+    400506: Cave_Statue_LionMale_ArmL_B
+    400508: Cave_Statue_LionMale_ArmR_A
+    400510: Cave_Statue_LionMale_ArmR_B
+    400512: Cave_Wall_01x01_CornerOut
+    400514: Cave_Wall_01x01_CornerOut 1
+    400516: Cave_Wall_01x01_CornerOut 2
+    400518: Cave_Wall_01x01_CornerOut 3
+    400520: Cave_Wall_01x01_CornerOut 4
+    400522: Cave_Wall_01x01_CornerOut 5
+    400524: Cave_Wall_01x01_CornerOutShort
+    400526: Cave_Wall_01x01_CornerOutShort 1
+    400528: Cave_Wall_01x01_CornerOutShort 10
+    400530: Cave_Wall_01x01_CornerOutShort 11
+    400532: Cave_Wall_01x01_CornerOutShort 12
+    400534: Cave_Wall_01x01_CornerOutShort 13
+    400536: Cave_Wall_01x01_CornerOutShort 14
+    400538: Cave_Wall_01x01_CornerOutShort 2
+    400540: Cave_Wall_01x01_CornerOutShort 3
+    400542: Cave_Wall_01x01_CornerOutShort 4
+    400544: Cave_Wall_01x01_CornerOutShort 5
+    400546: Cave_Wall_01x01_CornerOutShort 6
+    400548: Cave_Wall_01x01_CornerOutShort 7
+    400550: Cave_Wall_01x01_CornerOutShort 8
+    400552: Cave_Wall_01x01_CornerOutShort 9
+    400554: Cave_Wall_01x04_Bottom
+    400556: Cave_Wall_01x04_Bottom 1
+    400558: Cave_Wall_01x04_Bottom 10
+    400560: Cave_Wall_01x04_Bottom 11
+    400562: Cave_Wall_01x04_Bottom 12
+    400564: Cave_Wall_01x04_Bottom 13
+    400566: Cave_Wall_01x04_Bottom 2
+    400568: Cave_Wall_01x04_Bottom 3
+    400570: Cave_Wall_01x04_Bottom 4
+    400572: Cave_Wall_01x04_Bottom 5
+    400574: Cave_Wall_01x04_Bottom 6
+    400576: Cave_Wall_01x04_Bottom 7
+    400578: Cave_Wall_01x04_Bottom 8
+    400580: Cave_Wall_01x04_Bottom 9
+    400582: Cave_Wall_01x04_BottomCornerIn
+    400584: Cave_Wall_01x04_BottomCornerIn 1
+    400586: Cave_Wall_01x04_BottomCornerIn 2
+    400588: Cave_Wall_01x04_BottomCornerIn 3
+    400590: Cave_Wall_01x04_BottomCornerIn 4
+    400592: Cave_Wall_01x04_BottomCornerIn 5
+    400594: Cave_Wall_01x04_BottomCornerOut
+    400596: Cave_Wall_01x04_BottomCornerOut 1
+    400598: Cave_Wall_01x04_BottomCornerOut 10
+    400600: Cave_Wall_01x04_BottomCornerOut 11
+    400602: Cave_Wall_01x04_BottomCornerOut 12
+    400604: Cave_Wall_01x04_BottomCornerOut 13
+    400606: Cave_Wall_01x04_BottomCornerOut 14
+    400608: Cave_Wall_01x04_BottomCornerOut 15
+    400610: Cave_Wall_01x04_BottomCornerOut 16
+    400612: Cave_Wall_01x04_BottomCornerOut 17
+    400614: Cave_Wall_01x04_BottomCornerOut 18
+    400616: Cave_Wall_01x04_BottomCornerOut 19
+    400618: Cave_Wall_01x04_BottomCornerOut 2
+    400620: Cave_Wall_01x04_BottomCornerOut 20
+    400622: Cave_Wall_01x04_BottomCornerOut 21
+    400624: Cave_Wall_01x04_BottomCornerOut 22
+    400626: Cave_Wall_01x04_BottomCornerOut 3
+    400628: Cave_Wall_01x04_BottomCornerOut 4
+    400630: Cave_Wall_01x04_BottomCornerOut 5
+    400632: Cave_Wall_01x04_BottomCornerOut 6
+    400634: Cave_Wall_01x04_BottomCornerOut 7
+    400636: Cave_Wall_01x04_BottomCornerOut 8
+    400638: Cave_Wall_01x04_BottomCornerOut 9
+    400640: Cave_Wall_02x01_Basic
+    400642: Cave_Wall_02x01_Basic 1
+    400644: Cave_Wall_02x01_Basic 2
+    400646: Cave_Wall_02x01_Basic 3
+    400648: Cave_Wall_02x01_Short
+    400650: Cave_Wall_02x01_Short 1
+    400652: Cave_Wall_02x01_Short 10
+    400654: Cave_Wall_02x01_Short 11
+    400656: Cave_Wall_02x01_Short 12
+    400658: Cave_Wall_02x01_Short 13
+    400660: Cave_Wall_02x01_Short 14
+    400662: Cave_Wall_02x01_Short 15
+    400664: Cave_Wall_02x01_Short 16
+    400666: Cave_Wall_02x01_Short 17
+    400668: Cave_Wall_02x01_Short 18
+    400670: Cave_Wall_02x01_Short 19
+    400672: Cave_Wall_02x01_Short 2
+    400674: Cave_Wall_02x01_Short 20
+    400676: Cave_Wall_02x01_Short 21
+    400678: Cave_Wall_02x01_Short 22
+    400680: Cave_Wall_02x01_Short 23
+    400682: Cave_Wall_02x01_Short 24
+    400684: Cave_Wall_02x01_Short 3
+    400686: Cave_Wall_02x01_Short 4
+    400688: Cave_Wall_02x01_Short 5
+    400690: Cave_Wall_02x01_Short 6
+    400692: Cave_Wall_02x01_Short 7
+    400694: Cave_Wall_02x01_Short 8
+    400696: Cave_Wall_02x01_Short 9
+    400698: Cave_Wall_02x01_Short_Broke
+    400700: Cave_Wall_02x02_CornerIn
+    400702: Cave_Wall_02x02_CornerIn 1
+    400704: Cave_Wall_02x02_CornerIn 2
+    400706: Cave_Wall_02x02_CornerIn 3
+    400708: Cave_Wall_02x02_CornerIn 4
+    400710: Cave_Wall_02x02_CornerIn 5
+    400712: Cave_Wall_02x02_CornerIn 6
+    400714: Cave_Wall_02x02_CornerIn 7
+    400716: Cave_Wall_02x02_CornerInShort
+    400718: Cave_Wall_02x02_CornerInShort 1
+    400720: Cave_Wall_02x02_CornerInShort 2
+    400722: Cave_Wall_02x02_CornerInShort 3
+    400724: Cave_Wall_04x01_Basic
+    400726: Cave_Wall_04x01_Basic 1
+    400728: Cave_Wall_04x01_Basic 2
+    400730: Cave_Wall_04x01_Basic 3
+    400732: Cave_Wall_04x01_Basic 4
+    400734: Cave_Wall_04x01_Basic_Broken
+    400736: Cave_Wall_04x01_Nook
+    400738: Cave_Wall_04x04_Bottom
+    400740: Cave_Wall_04x04_Bottom 1
+    400742: Cave_Wall_Arch_Full
+    400744: Cave_Wall_PillarLarge
+    400746: Cave_Wall_PillarLarge 1
+    400748: Cave_Wall_PillarLarge 2
+    400750: Cave_Wall_PillarLarge 3
+    400752: Cave_Wall_PillarLarge 4
+    400754: Cave_Wall_PillarLarge 5
+    400756: Cave_Wall_PillarLarge 6
+    400758: Cave_Wall_PillarLargeBottom
+    400760: Cave_Wall_PillarLargeBottom 1
+    400762: Cave_Wall_PillarLargeBottom 2
+    400764: Cave_Wall_PillarLargeBottom 3
+    400766: Cave_Wall_ShortEndL
+    400768: Cave_Wall_ShortEndL 1
+    400770: Cave_Wall_ShortEndL 2
+    400772: Cave_Wall_ShortEndL 3
+    400774: Cave_Wall_ShortEndL 4
+    400776: Cave_Wall_ShortEndL 5
+    400778: Cave_Wall_ShortEndL 6
+    400780: Cave_Wall_ShortEndL 7
+    400782: Cave_Wall_ShortEndL 8
+    400784: Cave_Wall_ShortEndL 9
+    400786: Cave_Wall_ShortEndLBottom
+    400788: Cave_Wall_ShortEndLBottom 1
+    400790: Cave_Wall_ShortEndLBottom 2
+    400792: Cave_Wall_ShortEndLBottom 3
+    400794: Cave_Wall_ShortEndR
+    400796: Cave_Wall_ShortEndR 1
+    400798: Cave_Wall_ShortEndR 2
+    400800: Cave_Wall_ShortEndR 3
+    400802: Cave_Wall_ShortEndR 4
+    400804: Cave_Wall_ShortEndR 5
+    400806: Cave_Wall_ShortEndR 6
+    400808: Cave_Wall_ShortEndR 7
+    400810: Cave_Wall_ShortEndRBottom
+    400812: Cave_Wall_ShortEndRBottom 1
+    400814: Cave_Wall_ShortEndRBottom 2
+    400816: Cave_Wall_ShortEndRBottom 3
+    400818: Cave_Water_WaterPlane_02
+    400820: Cave_Water_WaterPlane_03
+    400822: FX_Water_Ripple_06
+    400824: FX_Water_Ripple_06 1
+    400826: FX_Water_Ripple_06 2
+    400828: //RootNode
+    2300000: Cave_Cliff_02x02_Basic
+    2300002: Cave_Cliff_02x02_Basic 1
+    2300004: Cave_Cliff_02x02_Basic 10
+    2300006: Cave_Cliff_02x02_Basic 2
+    2300008: Cave_Cliff_02x02_Basic 3
+    2300010: Cave_Cliff_02x02_Basic 4
+    2300012: Cave_Cliff_02x02_Basic 5
+    2300014: Cave_Cliff_02x02_Basic 6
+    2300016: Cave_Cliff_02x02_Basic 7
+    2300018: Cave_Cliff_02x02_Basic 8
+    2300020: Cave_Cliff_02x02_Basic 9
+    2300022: Cave_Cliff_02x02_Bottom
+    2300024: Cave_Cliff_02x02_Bottom 1
+    2300026: Cave_Cliff_02x02_Bottom 2
+    2300028: Cave_Cliff_02x02_Bottom 3
+    2300030: Cave_Cliff_02x02_Bottom 4
+    2300032: Cave_Cliff_02x02_Bottom 5
+    2300034: Cave_Cliff_02x02_Bottom 6
+    2300036: Cave_Cliff_02x02_Bottom 7
+    2300038: Cave_Cliff_02x02_Bottom 8
+    2300040: Cave_Cliff_02x02_Bottom 9
+    2300042: Cave_Cliff_02x02_CornerIn
+    2300044: Cave_Cliff_02x02_CornerIn 1
+    2300046: Cave_Cliff_02x02_CornerIn 10
+    2300048: Cave_Cliff_02x02_CornerIn 11
+    2300050: Cave_Cliff_02x02_CornerIn 2
+    2300052: Cave_Cliff_02x02_CornerIn 3
+    2300054: Cave_Cliff_02x02_CornerIn 4
+    2300056: Cave_Cliff_02x02_CornerIn 5
+    2300058: Cave_Cliff_02x02_CornerIn 6
+    2300060: Cave_Cliff_02x02_CornerIn 7
+    2300062: Cave_Cliff_02x02_CornerIn 8
+    2300064: Cave_Cliff_02x02_CornerIn 9
+    2300066: Cave_Cliff_02x02_CornerInBottom
+    2300068: Cave_Cliff_02x02_CornerInBottom 1
+    2300070: Cave_Cliff_02x02_CornerInBottom 2
+    2300072: Cave_Cliff_02x02_CornerInBottom 3
+    2300074: Cave_Cliff_02x02_CornerInBottom 4
+    2300076: Cave_Cliff_02x02_CornerInBottom 5
+    2300078: Cave_Cliff_02x02_CornerInBottom 6
+    2300080: Cave_Cliff_02x02_CornerInBottom 7
+    2300082: Cave_Cliff_02x02_CornerInBottom 8
+    2300084: Cave_Cliff_02x02_CornerOut
+    2300086: Cave_Cliff_02x02_CornerOut 1
+    2300088: Cave_Cliff_04x02_Basic
+    2300090: Cave_Cliff_04x02_Basic 1
+    2300092: Cave_Cliff_04x02_Basic 2
+    2300094: Cave_Cliff_04x02_Basic 3
+    2300096: Cave_Cliff_04x02_Basic 4
+    2300098: Cave_Cliff_04x02_Basic 5
+    2300100: Cave_Cliff_04x02_Basic 6
+    2300102: Cave_Cliff_04x02_Basic 7
+    2300104: Cave_Cliff_04x02_Bottom
+    2300106: Cave_Cliff_04x02_Bottom 1
+    2300108: Cave_Cliff_04x02_Bottom 2
+    2300110: Cave_Cliff_04x02_Bottom 3
+    2300112: Cave_Cliff_04x02_Bottom 4
+    2300114: Cave_Cliff_04x02_Bottom 5
+    2300116: Cave_Cliff_48x02_Filler_01
+    2300118: Cave_Cliff_48x02_Filler_01 1
+    2300120: Cave_Cliff_48x02_Filler_01 2
+    2300122: Cave_Cliff_48x02_Filler_01 3
+    2300124: Cave_Cliff_48x02_Filler_02
+    2300126: Cave_Cliff_48x02_Filler_02 1
+    2300128: Cave_Floor_01
+    2300130: Cave_Floor_01 1
+    2300132: Cave_Floor_01 10
+    2300134: Cave_Floor_01 11
+    2300136: Cave_Floor_01 2
+    2300138: Cave_Floor_01 3
+    2300140: Cave_Floor_01 4
+    2300142: Cave_Floor_01 5
+    2300144: Cave_Floor_01 6
+    2300146: Cave_Floor_01 7
+    2300148: Cave_Floor_01 8
+    2300150: Cave_Floor_01 9
+    2300152: Cave_Floor_02
+    2300154: Cave_Floor_02 1
+    2300156: Cave_Floor_02 2
+    2300158: Cave_Floor_03
+    2300160: Cave_Floor_03 1
+    2300162: Cave_Floor_03 2
+    2300164: Cave_Floor_03 3
+    2300166: Cave_Floor_03 4
+    2300168: Cave_Floor_04
+    2300170: Cave_Floor_04 1
+    2300172: Cave_Floor_05
+    2300174: Cave_Floor_05 1
+    2300176: Cave_Floor_05 10
+    2300178: Cave_Floor_05 11
+    2300180: Cave_Floor_05 12
+    2300182: Cave_Floor_05 13
+    2300184: Cave_Floor_05 14
+    2300186: Cave_Floor_05 15
+    2300188: Cave_Floor_05 16
+    2300190: Cave_Floor_05 17
+    2300192: Cave_Floor_05 18
+    2300194: Cave_Floor_05 19
+    2300196: Cave_Floor_05 2
+    2300198: Cave_Floor_05 20
+    2300200: Cave_Floor_05 3
+    2300202: Cave_Floor_05 4
+    2300204: Cave_Floor_05 5
+    2300206: Cave_Floor_05 6
+    2300208: Cave_Floor_05 7
+    2300210: Cave_Floor_05 8
+    2300212: Cave_Floor_05 9
+    2300214: Cave_Floor_06
+    2300216: Cave_Floor_06 1
+    2300218: Cave_Floor_06 2
+    2300220: Cave_Floor_06 3
+    2300222: Cave_Floor_06 4
+    2300224: Cave_Floor_06 5
+    2300226: Cave_Floor_06 6
+    2300228: Cave_Floor_06 7
+    2300230: Cave_Floor_06 8
+    2300232: Cave_Floor_06 9
+    2300234: Cave_Floor_PathHub
+    2300236: Cave_Floor_PathHub 1
+    2300238: Cave_Floor_PathHub 2
+    2300240: Cave_Floor_PathHub 3
+    2300242: Cave_Floor_PathHub 4
+    2300244: Cave_Natural_RockBig_01
+    2300246: Cave_Natural_RockBig_01 1
+    2300248: Cave_Natural_RockBig_01 2
+    2300250: Cave_Natural_RockBig_01 3
+    2300252: Cave_Natural_RockBig_01 4
+    2300254: Cave_Natural_Stalagmite_A
+    2300256: Cave_Natural_Stalagmite_A 1
+    2300258: Cave_Prop_Bench_01
+    2300260: Cave_Prop_Bench_01 1
+    2300262: Cave_Prop_Bench_01 2
+    2300264: Cave_Prop_Bench_01 3
+    2300266: Cave_Prop_Block_01
+    2300268: Cave_Prop_Boat_003
+    2300270: Cave_Prop_Boat_02
+    2300272: Cave_Prop_Candle_02
+    2300274: Cave_Prop_HangingL_01
+    2300276: Cave_Prop_HangingR_01
+    2300278: Cave_Prop_Pot_A
+    2300280: Cave_Prop_Pot_A 1
+    2300282: Cave_Prop_Pot_A 2
+    2300284: Cave_Prop_Pot_B
+    2300286: Cave_Prop_Pot_B 1
+    2300288: Cave_Prop_Rubble_01
+    2300290: Cave_Prop_Rug_01
+    2300292: Cave_Prop_Rug_01 1
+    2300294: Cave_Prop_Rug_01 2
+    2300296: Cave_Prop_Table_01
+    2300298: Cave_Prop_Table_03
+    2300300: Cave_Railing_01x01_CornerOut
+    2300302: Cave_Railing_01x01_CornerOut 1
+    2300304: Cave_Railing_02x01
+    2300306: Cave_Railing_02x01 1
+    2300308: Cave_Railing_02x01 2
+    2300310: Cave_Railing_02x01 3
+    2300312: Cave_Railing_02x01 4
+    2300314: Cave_Railing_02x01 5
+    2300316: Cave_Railing_02x01 6
+    2300318: Cave_Railing_02x01 7
+    2300320: Cave_Railing_02x01 8
+    2300322: Cave_Stairs_01x01_CapTop
+    2300324: Cave_Stairs_01x01_CapTop 1
+    2300326: Cave_Stairs_01x01_CapTop 10
+    2300328: Cave_Stairs_01x01_CapTop 11
+    2300330: Cave_Stairs_01x01_CapTop 12
+    2300332: Cave_Stairs_01x01_CapTop 13
+    2300334: Cave_Stairs_01x01_CapTop 2
+    2300336: Cave_Stairs_01x01_CapTop 3
+    2300338: Cave_Stairs_01x01_CapTop 4
+    2300340: Cave_Stairs_01x01_CapTop 5
+    2300342: Cave_Stairs_01x01_CapTop 6
+    2300344: Cave_Stairs_01x01_CapTop 7
+    2300346: Cave_Stairs_01x01_CapTop 8
+    2300348: Cave_Stairs_01x01_CapTop 9
+    2300350: Cave_Stairs_02x02_Bannister
+    2300352: Cave_Stairs_02x02_Bannister 1
+    2300354: Cave_Stairs_02x02_Bannister 10
+    2300356: Cave_Stairs_02x02_Bannister 11
+    2300358: Cave_Stairs_02x02_Bannister 12
+    2300360: Cave_Stairs_02x02_Bannister 13
+    2300362: Cave_Stairs_02x02_Bannister 14
+    2300364: Cave_Stairs_02x02_Bannister 15
+    2300366: Cave_Stairs_02x02_Bannister 16
+    2300368: Cave_Stairs_02x02_Bannister 17
+    2300370: Cave_Stairs_02x02_Bannister 18
+    2300372: Cave_Stairs_02x02_Bannister 19
+    2300374: Cave_Stairs_02x02_Bannister 2
+    2300376: Cave_Stairs_02x02_Bannister 3
+    2300378: Cave_Stairs_02x02_Bannister 4
+    2300380: Cave_Stairs_02x02_Bannister 5
+    2300382: Cave_Stairs_02x02_Bannister 6
+    2300384: Cave_Stairs_02x02_Bannister 7
+    2300386: Cave_Stairs_02x02_Bannister 8
+    2300388: Cave_Stairs_02x02_Bannister 9
+    2300390: Cave_Stairs_02x02_BannisterHalf
+    2300392: Cave_Stairs_02x02_BannisterHalf 1
+    2300394: Cave_Stairs_02x02_BannisterHalf 2
+    2300396: Cave_Stairs_02x02_BannisterHalf 3
+    2300398: Cave_Stairs_02x02_BannisterHalf 4
+    2300400: Cave_Stairs_02x02_BannisterHalf 5
+    2300402: Cave_Stairs_02x02_BannisterHalf 6
+    2300404: Cave_Stairs_02x02_BannisterHalf 7
+    2300406: Cave_Stairs_02x02_BannisterHalf 8
+    2300408: Cave_Stairs_02x02_Basic
+    2300410: Cave_Stairs_02x02_Basic 1
+    2300412: Cave_Stairs_02x02_Basic 10
+    2300414: Cave_Stairs_02x02_Basic 11
+    2300416: Cave_Stairs_02x02_Basic 12
+    2300418: Cave_Stairs_02x02_Basic 13
+    2300420: Cave_Stairs_02x02_Basic 14
+    2300422: Cave_Stairs_02x02_Basic 15
+    2300424: Cave_Stairs_02x02_Basic 16
+    2300426: Cave_Stairs_02x02_Basic 17
+    2300428: Cave_Stairs_02x02_Basic 18
+    2300430: Cave_Stairs_02x02_Basic 19
+    2300432: Cave_Stairs_02x02_Basic 2
+    2300434: Cave_Stairs_02x02_Basic 20
+    2300436: Cave_Stairs_02x02_Basic 21
+    2300438: Cave_Stairs_02x02_Basic 3
+    2300440: Cave_Stairs_02x02_Basic 4
+    2300442: Cave_Stairs_02x02_Basic 5
+    2300444: Cave_Stairs_02x02_Basic 6
+    2300446: Cave_Stairs_02x02_Basic 7
+    2300448: Cave_Stairs_02x02_Basic 8
+    2300450: Cave_Stairs_02x02_Basic 9
+    2300452: Cave_Stairs_03x02_Basic
+    2300454: Cave_Stairs_03x02_Basic 1
+    2300456: Cave_Stairs_03x02_Basic 2
+    2300458: Cave_Stairs_03x02_Basic 3
+    2300460: Cave_Stairs_BottomL
+    2300462: Cave_Stairs_BottomL 1
+    2300464: Cave_Stairs_BottomL 2
+    2300466: Cave_Stairs_BottomL 3
+    2300468: Cave_Stairs_BottomL 4
+    2300470: Cave_Stairs_BottomL 5
+    2300472: Cave_Stairs_BottomL_02
+    2300474: Cave_Stairs_BottomL_02 1
+    2300476: Cave_Stairs_BottomR
+    2300478: Cave_Stairs_BottomR_02
+    2300480: Cave_Stairs_BottomR_02 1
+    2300482: Cave_Statue_LionFemale_01
+    2300484: Cave_Statue_LionFemale_01 1
+    2300486: Cave_Statue_LionFemale_01 2
+    2300488: Cave_Statue_LionFemale_ArmL_B
+    2300490: Cave_Statue_LionFemale_ArmL_C
+    2300492: Cave_Statue_LionFemale_ArmR_B
+    2300494: Cave_Statue_LionFemale_ArmR_C
+    2300496: Cave_Statue_LionMale_01
+    2300498: Cave_Statue_LionMale_01 1
+    2300500: Cave_Statue_LionMale_01 2
+    2300502: Cave_Statue_LionMale_01 3
+    2300504: Cave_Statue_LionMale_ArmL_A
+    2300506: Cave_Statue_LionMale_ArmL_B
+    2300508: Cave_Statue_LionMale_ArmR_A
+    2300510: Cave_Statue_LionMale_ArmR_B
+    2300512: Cave_Wall_01x01_CornerOut
+    2300514: Cave_Wall_01x01_CornerOut 1
+    2300516: Cave_Wall_01x01_CornerOut 2
+    2300518: Cave_Wall_01x01_CornerOut 3
+    2300520: Cave_Wall_01x01_CornerOut 4
+    2300522: Cave_Wall_01x01_CornerOut 5
+    2300524: Cave_Wall_01x01_CornerOutShort
+    2300526: Cave_Wall_01x01_CornerOutShort 1
+    2300528: Cave_Wall_01x01_CornerOutShort 10
+    2300530: Cave_Wall_01x01_CornerOutShort 11
+    2300532: Cave_Wall_01x01_CornerOutShort 12
+    2300534: Cave_Wall_01x01_CornerOutShort 13
+    2300536: Cave_Wall_01x01_CornerOutShort 14
+    2300538: Cave_Wall_01x01_CornerOutShort 2
+    2300540: Cave_Wall_01x01_CornerOutShort 3
+    2300542: Cave_Wall_01x01_CornerOutShort 4
+    2300544: Cave_Wall_01x01_CornerOutShort 5
+    2300546: Cave_Wall_01x01_CornerOutShort 6
+    2300548: Cave_Wall_01x01_CornerOutShort 7
+    2300550: Cave_Wall_01x01_CornerOutShort 8
+    2300552: Cave_Wall_01x01_CornerOutShort 9
+    2300554: Cave_Wall_01x04_Bottom
+    2300556: Cave_Wall_01x04_Bottom 1
+    2300558: Cave_Wall_01x04_Bottom 10
+    2300560: Cave_Wall_01x04_Bottom 11
+    2300562: Cave_Wall_01x04_Bottom 12
+    2300564: Cave_Wall_01x04_Bottom 13
+    2300566: Cave_Wall_01x04_Bottom 2
+    2300568: Cave_Wall_01x04_Bottom 3
+    2300570: Cave_Wall_01x04_Bottom 4
+    2300572: Cave_Wall_01x04_Bottom 5
+    2300574: Cave_Wall_01x04_Bottom 6
+    2300576: Cave_Wall_01x04_Bottom 7
+    2300578: Cave_Wall_01x04_Bottom 8
+    2300580: Cave_Wall_01x04_Bottom 9
+    2300582: Cave_Wall_01x04_BottomCornerIn
+    2300584: Cave_Wall_01x04_BottomCornerIn 1
+    2300586: Cave_Wall_01x04_BottomCornerIn 2
+    2300588: Cave_Wall_01x04_BottomCornerIn 3
+    2300590: Cave_Wall_01x04_BottomCornerIn 4
+    2300592: Cave_Wall_01x04_BottomCornerIn 5
+    2300594: Cave_Wall_01x04_BottomCornerOut
+    2300596: Cave_Wall_01x04_BottomCornerOut 1
+    2300598: Cave_Wall_01x04_BottomCornerOut 10
+    2300600: Cave_Wall_01x04_BottomCornerOut 11
+    2300602: Cave_Wall_01x04_BottomCornerOut 12
+    2300604: Cave_Wall_01x04_BottomCornerOut 13
+    2300606: Cave_Wall_01x04_BottomCornerOut 14
+    2300608: Cave_Wall_01x04_BottomCornerOut 15
+    2300610: Cave_Wall_01x04_BottomCornerOut 16
+    2300612: Cave_Wall_01x04_BottomCornerOut 17
+    2300614: Cave_Wall_01x04_BottomCornerOut 18
+    2300616: Cave_Wall_01x04_BottomCornerOut 19
+    2300618: Cave_Wall_01x04_BottomCornerOut 2
+    2300620: Cave_Wall_01x04_BottomCornerOut 20
+    2300622: Cave_Wall_01x04_BottomCornerOut 21
+    2300624: Cave_Wall_01x04_BottomCornerOut 22
+    2300626: Cave_Wall_01x04_BottomCornerOut 3
+    2300628: Cave_Wall_01x04_BottomCornerOut 4
+    2300630: Cave_Wall_01x04_BottomCornerOut 5
+    2300632: Cave_Wall_01x04_BottomCornerOut 6
+    2300634: Cave_Wall_01x04_BottomCornerOut 7
+    2300636: Cave_Wall_01x04_BottomCornerOut 8
+    2300638: Cave_Wall_01x04_BottomCornerOut 9
+    2300640: Cave_Wall_02x01_Basic
+    2300642: Cave_Wall_02x01_Basic 1
+    2300644: Cave_Wall_02x01_Basic 2
+    2300646: Cave_Wall_02x01_Basic 3
+    2300648: Cave_Wall_02x01_Short
+    2300650: Cave_Wall_02x01_Short 1
+    2300652: Cave_Wall_02x01_Short 10
+    2300654: Cave_Wall_02x01_Short 11
+    2300656: Cave_Wall_02x01_Short 12
+    2300658: Cave_Wall_02x01_Short 13
+    2300660: Cave_Wall_02x01_Short 14
+    2300662: Cave_Wall_02x01_Short 15
+    2300664: Cave_Wall_02x01_Short 16
+    2300666: Cave_Wall_02x01_Short 17
+    2300668: Cave_Wall_02x01_Short 18
+    2300670: Cave_Wall_02x01_Short 19
+    2300672: Cave_Wall_02x01_Short 2
+    2300674: Cave_Wall_02x01_Short 20
+    2300676: Cave_Wall_02x01_Short 21
+    2300678: Cave_Wall_02x01_Short 22
+    2300680: Cave_Wall_02x01_Short 23
+    2300682: Cave_Wall_02x01_Short 24
+    2300684: Cave_Wall_02x01_Short 3
+    2300686: Cave_Wall_02x01_Short 4
+    2300688: Cave_Wall_02x01_Short 5
+    2300690: Cave_Wall_02x01_Short 6
+    2300692: Cave_Wall_02x01_Short 7
+    2300694: Cave_Wall_02x01_Short 8
+    2300696: Cave_Wall_02x01_Short 9
+    2300698: Cave_Wall_02x01_Short_Broke
+    2300700: Cave_Wall_02x02_CornerIn
+    2300702: Cave_Wall_02x02_CornerIn 1
+    2300704: Cave_Wall_02x02_CornerIn 2
+    2300706: Cave_Wall_02x02_CornerIn 3
+    2300708: Cave_Wall_02x02_CornerIn 4
+    2300710: Cave_Wall_02x02_CornerIn 5
+    2300712: Cave_Wall_02x02_CornerIn 6
+    2300714: Cave_Wall_02x02_CornerIn 7
+    2300716: Cave_Wall_02x02_CornerInShort
+    2300718: Cave_Wall_02x02_CornerInShort 1
+    2300720: Cave_Wall_02x02_CornerInShort 2
+    2300722: Cave_Wall_02x02_CornerInShort 3
+    2300724: Cave_Wall_04x01_Basic
+    2300726: Cave_Wall_04x01_Basic 1
+    2300728: Cave_Wall_04x01_Basic 2
+    2300730: Cave_Wall_04x01_Basic 3
+    2300732: Cave_Wall_04x01_Basic 4
+    2300734: Cave_Wall_04x01_Basic_Broken
+    2300736: Cave_Wall_04x01_Nook
+    2300738: Cave_Wall_04x04_Bottom
+    2300740: Cave_Wall_04x04_Bottom 1
+    2300742: Cave_Wall_Arch_Full
+    2300744: Cave_Wall_PillarLarge
+    2300746: Cave_Wall_PillarLarge 1
+    2300748: Cave_Wall_PillarLarge 2
+    2300750: Cave_Wall_PillarLarge 3
+    2300752: Cave_Wall_PillarLarge 4
+    2300754: Cave_Wall_PillarLarge 5
+    2300756: Cave_Wall_PillarLarge 6
+    2300758: Cave_Wall_PillarLargeBottom
+    2300760: Cave_Wall_PillarLargeBottom 1
+    2300762: Cave_Wall_PillarLargeBottom 2
+    2300764: Cave_Wall_PillarLargeBottom 3
+    2300766: Cave_Wall_ShortEndL
+    2300768: Cave_Wall_ShortEndL 1
+    2300770: Cave_Wall_ShortEndL 2
+    2300772: Cave_Wall_ShortEndL 3
+    2300774: Cave_Wall_ShortEndL 4
+    2300776: Cave_Wall_ShortEndL 5
+    2300778: Cave_Wall_ShortEndL 6
+    2300780: Cave_Wall_ShortEndL 7
+    2300782: Cave_Wall_ShortEndL 8
+    2300784: Cave_Wall_ShortEndL 9
+    2300786: Cave_Wall_ShortEndLBottom
+    2300788: Cave_Wall_ShortEndLBottom 1
+    2300790: Cave_Wall_ShortEndLBottom 2
+    2300792: Cave_Wall_ShortEndLBottom 3
+    2300794: Cave_Wall_ShortEndR
+    2300796: Cave_Wall_ShortEndR 1
+    2300798: Cave_Wall_ShortEndR 2
+    2300800: Cave_Wall_ShortEndR 3
+    2300802: Cave_Wall_ShortEndR 4
+    2300804: Cave_Wall_ShortEndR 5
+    2300806: Cave_Wall_ShortEndR 6
+    2300808: Cave_Wall_ShortEndR 7
+    2300810: Cave_Wall_ShortEndRBottom
+    2300812: Cave_Wall_ShortEndRBottom 1
+    2300814: Cave_Wall_ShortEndRBottom 2
+    2300816: Cave_Wall_ShortEndRBottom 3
+    2300818: Cave_Water_WaterPlane_02
+    2300820: Cave_Water_WaterPlane_03
+    2300822: FX_Water_Ripple_06
+    2300824: FX_Water_Ripple_06 1
+    2300826: FX_Water_Ripple_06 2
+    3300000: Cave_Cliff_02x02_Basic
+    3300002: Cave_Cliff_02x02_Basic 1
+    3300004: Cave_Cliff_02x02_Basic 10
+    3300006: Cave_Cliff_02x02_Basic 2
+    3300008: Cave_Cliff_02x02_Basic 3
+    3300010: Cave_Cliff_02x02_Basic 4
+    3300012: Cave_Cliff_02x02_Basic 5
+    3300014: Cave_Cliff_02x02_Basic 6
+    3300016: Cave_Cliff_02x02_Basic 7
+    3300018: Cave_Cliff_02x02_Basic 8
+    3300020: Cave_Cliff_02x02_Basic 9
+    3300022: Cave_Cliff_02x02_Bottom
+    3300024: Cave_Cliff_02x02_Bottom 1
+    3300026: Cave_Cliff_02x02_Bottom 2
+    3300028: Cave_Cliff_02x02_Bottom 3
+    3300030: Cave_Cliff_02x02_Bottom 4
+    3300032: Cave_Cliff_02x02_Bottom 5
+    3300034: Cave_Cliff_02x02_Bottom 6
+    3300036: Cave_Cliff_02x02_Bottom 7
+    3300038: Cave_Cliff_02x02_Bottom 8
+    3300040: Cave_Cliff_02x02_Bottom 9
+    3300042: Cave_Cliff_02x02_CornerIn
+    3300044: Cave_Cliff_02x02_CornerIn 1
+    3300046: Cave_Cliff_02x02_CornerIn 10
+    3300048: Cave_Cliff_02x02_CornerIn 11
+    3300050: Cave_Cliff_02x02_CornerIn 2
+    3300052: Cave_Cliff_02x02_CornerIn 3
+    3300054: Cave_Cliff_02x02_CornerIn 4
+    3300056: Cave_Cliff_02x02_CornerIn 5
+    3300058: Cave_Cliff_02x02_CornerIn 6
+    3300060: Cave_Cliff_02x02_CornerIn 7
+    3300062: Cave_Cliff_02x02_CornerIn 8
+    3300064: Cave_Cliff_02x02_CornerIn 9
+    3300066: Cave_Cliff_02x02_CornerInBottom
+    3300068: Cave_Cliff_02x02_CornerInBottom 1
+    3300070: Cave_Cliff_02x02_CornerInBottom 2
+    3300072: Cave_Cliff_02x02_CornerInBottom 3
+    3300074: Cave_Cliff_02x02_CornerInBottom 4
+    3300076: Cave_Cliff_02x02_CornerInBottom 5
+    3300078: Cave_Cliff_02x02_CornerInBottom 6
+    3300080: Cave_Cliff_02x02_CornerInBottom 7
+    3300082: Cave_Cliff_02x02_CornerInBottom 8
+    3300084: Cave_Cliff_02x02_CornerOut
+    3300086: Cave_Cliff_02x02_CornerOut 1
+    3300088: Cave_Cliff_04x02_Basic
+    3300090: Cave_Cliff_04x02_Basic 1
+    3300092: Cave_Cliff_04x02_Basic 2
+    3300094: Cave_Cliff_04x02_Basic 3
+    3300096: Cave_Cliff_04x02_Basic 4
+    3300098: Cave_Cliff_04x02_Basic 5
+    3300100: Cave_Cliff_04x02_Basic 6
+    3300102: Cave_Cliff_04x02_Basic 7
+    3300104: Cave_Cliff_04x02_Bottom
+    3300106: Cave_Cliff_04x02_Bottom 1
+    3300108: Cave_Cliff_04x02_Bottom 2
+    3300110: Cave_Cliff_04x02_Bottom 3
+    3300112: Cave_Cliff_04x02_Bottom 4
+    3300114: Cave_Cliff_04x02_Bottom 5
+    3300116: Cave_Cliff_48x02_Filler_01
+    3300118: Cave_Cliff_48x02_Filler_01 1
+    3300120: Cave_Cliff_48x02_Filler_01 2
+    3300122: Cave_Cliff_48x02_Filler_01 3
+    3300124: Cave_Cliff_48x02_Filler_02
+    3300126: Cave_Cliff_48x02_Filler_02 1
+    3300128: Cave_Floor_01
+    3300130: Cave_Floor_01 1
+    3300132: Cave_Floor_01 10
+    3300134: Cave_Floor_01 11
+    3300136: Cave_Floor_01 2
+    3300138: Cave_Floor_01 3
+    3300140: Cave_Floor_01 4
+    3300142: Cave_Floor_01 5
+    3300144: Cave_Floor_01 6
+    3300146: Cave_Floor_01 7
+    3300148: Cave_Floor_01 8
+    3300150: Cave_Floor_01 9
+    3300152: Cave_Floor_02
+    3300154: Cave_Floor_02 1
+    3300156: Cave_Floor_02 2
+    3300158: Cave_Floor_03
+    3300160: Cave_Floor_03 1
+    3300162: Cave_Floor_03 2
+    3300164: Cave_Floor_03 3
+    3300166: Cave_Floor_03 4
+    3300168: Cave_Floor_04
+    3300170: Cave_Floor_04 1
+    3300172: Cave_Floor_05
+    3300174: Cave_Floor_05 1
+    3300176: Cave_Floor_05 10
+    3300178: Cave_Floor_05 11
+    3300180: Cave_Floor_05 12
+    3300182: Cave_Floor_05 13
+    3300184: Cave_Floor_05 14
+    3300186: Cave_Floor_05 15
+    3300188: Cave_Floor_05 16
+    3300190: Cave_Floor_05 17
+    3300192: Cave_Floor_05 18
+    3300194: Cave_Floor_05 19
+    3300196: Cave_Floor_05 2
+    3300198: Cave_Floor_05 20
+    3300200: Cave_Floor_05 3
+    3300202: Cave_Floor_05 4
+    3300204: Cave_Floor_05 5
+    3300206: Cave_Floor_05 6
+    3300208: Cave_Floor_05 7
+    3300210: Cave_Floor_05 8
+    3300212: Cave_Floor_05 9
+    3300214: Cave_Floor_06
+    3300216: Cave_Floor_06 1
+    3300218: Cave_Floor_06 2
+    3300220: Cave_Floor_06 3
+    3300222: Cave_Floor_06 4
+    3300224: Cave_Floor_06 5
+    3300226: Cave_Floor_06 6
+    3300228: Cave_Floor_06 7
+    3300230: Cave_Floor_06 8
+    3300232: Cave_Floor_06 9
+    3300234: Cave_Floor_PathHub
+    3300236: Cave_Floor_PathHub 1
+    3300238: Cave_Floor_PathHub 2
+    3300240: Cave_Floor_PathHub 3
+    3300242: Cave_Floor_PathHub 4
+    3300244: Cave_Natural_RockBig_01
+    3300246: Cave_Natural_RockBig_01 1
+    3300248: Cave_Natural_RockBig_01 2
+    3300250: Cave_Natural_RockBig_01 3
+    3300252: Cave_Natural_RockBig_01 4
+    3300254: Cave_Natural_Stalagmite_A
+    3300256: Cave_Natural_Stalagmite_A 1
+    3300258: Cave_Prop_Bench_01
+    3300260: Cave_Prop_Bench_01 1
+    3300262: Cave_Prop_Bench_01 2
+    3300264: Cave_Prop_Bench_01 3
+    3300266: Cave_Prop_Block_01
+    3300268: Cave_Prop_Boat_003
+    3300270: Cave_Prop_Boat_02
+    3300272: Cave_Prop_Candle_02
+    3300274: Cave_Prop_HangingL_01
+    3300276: Cave_Prop_HangingR_01
+    3300278: Cave_Prop_Pot_A
+    3300280: Cave_Prop_Pot_A 1
+    3300282: Cave_Prop_Pot_A 2
+    3300284: Cave_Prop_Pot_B
+    3300286: Cave_Prop_Pot_B 1
+    3300288: Cave_Prop_Rubble_01
+    3300290: Cave_Prop_Rug_01
+    3300292: Cave_Prop_Rug_01 1
+    3300294: Cave_Prop_Rug_01 2
+    3300296: Cave_Prop_Table_01
+    3300298: Cave_Prop_Table_03
+    3300300: Cave_Railing_01x01_CornerOut
+    3300302: Cave_Railing_01x01_CornerOut 1
+    3300304: Cave_Railing_02x01
+    3300306: Cave_Railing_02x01 1
+    3300308: Cave_Railing_02x01 2
+    3300310: Cave_Railing_02x01 3
+    3300312: Cave_Railing_02x01 4
+    3300314: Cave_Railing_02x01 5
+    3300316: Cave_Railing_02x01 6
+    3300318: Cave_Railing_02x01 7
+    3300320: Cave_Railing_02x01 8
+    3300322: Cave_Stairs_01x01_CapTop
+    3300324: Cave_Stairs_01x01_CapTop 1
+    3300326: Cave_Stairs_01x01_CapTop 10
+    3300328: Cave_Stairs_01x01_CapTop 11
+    3300330: Cave_Stairs_01x01_CapTop 12
+    3300332: Cave_Stairs_01x01_CapTop 13
+    3300334: Cave_Stairs_01x01_CapTop 2
+    3300336: Cave_Stairs_01x01_CapTop 3
+    3300338: Cave_Stairs_01x01_CapTop 4
+    3300340: Cave_Stairs_01x01_CapTop 5
+    3300342: Cave_Stairs_01x01_CapTop 6
+    3300344: Cave_Stairs_01x01_CapTop 7
+    3300346: Cave_Stairs_01x01_CapTop 8
+    3300348: Cave_Stairs_01x01_CapTop 9
+    3300350: Cave_Stairs_02x02_Bannister
+    3300352: Cave_Stairs_02x02_Bannister 1
+    3300354: Cave_Stairs_02x02_Bannister 10
+    3300356: Cave_Stairs_02x02_Bannister 11
+    3300358: Cave_Stairs_02x02_Bannister 12
+    3300360: Cave_Stairs_02x02_Bannister 13
+    3300362: Cave_Stairs_02x02_Bannister 14
+    3300364: Cave_Stairs_02x02_Bannister 15
+    3300366: Cave_Stairs_02x02_Bannister 16
+    3300368: Cave_Stairs_02x02_Bannister 17
+    3300370: Cave_Stairs_02x02_Bannister 18
+    3300372: Cave_Stairs_02x02_Bannister 19
+    3300374: Cave_Stairs_02x02_Bannister 2
+    3300376: Cave_Stairs_02x02_Bannister 3
+    3300378: Cave_Stairs_02x02_Bannister 4
+    3300380: Cave_Stairs_02x02_Bannister 5
+    3300382: Cave_Stairs_02x02_Bannister 6
+    3300384: Cave_Stairs_02x02_Bannister 7
+    3300386: Cave_Stairs_02x02_Bannister 8
+    3300388: Cave_Stairs_02x02_Bannister 9
+    3300390: Cave_Stairs_02x02_BannisterHalf
+    3300392: Cave_Stairs_02x02_BannisterHalf 1
+    3300394: Cave_Stairs_02x02_BannisterHalf 2
+    3300396: Cave_Stairs_02x02_BannisterHalf 3
+    3300398: Cave_Stairs_02x02_BannisterHalf 4
+    3300400: Cave_Stairs_02x02_BannisterHalf 5
+    3300402: Cave_Stairs_02x02_BannisterHalf 6
+    3300404: Cave_Stairs_02x02_BannisterHalf 7
+    3300406: Cave_Stairs_02x02_BannisterHalf 8
+    3300408: Cave_Stairs_02x02_Basic
+    3300410: Cave_Stairs_02x02_Basic 1
+    3300412: Cave_Stairs_02x02_Basic 10
+    3300414: Cave_Stairs_02x02_Basic 11
+    3300416: Cave_Stairs_02x02_Basic 12
+    3300418: Cave_Stairs_02x02_Basic 13
+    3300420: Cave_Stairs_02x02_Basic 14
+    3300422: Cave_Stairs_02x02_Basic 15
+    3300424: Cave_Stairs_02x02_Basic 16
+    3300426: Cave_Stairs_02x02_Basic 17
+    3300428: Cave_Stairs_02x02_Basic 18
+    3300430: Cave_Stairs_02x02_Basic 19
+    3300432: Cave_Stairs_02x02_Basic 2
+    3300434: Cave_Stairs_02x02_Basic 20
+    3300436: Cave_Stairs_02x02_Basic 21
+    3300438: Cave_Stairs_02x02_Basic 3
+    3300440: Cave_Stairs_02x02_Basic 4
+    3300442: Cave_Stairs_02x02_Basic 5
+    3300444: Cave_Stairs_02x02_Basic 6
+    3300446: Cave_Stairs_02x02_Basic 7
+    3300448: Cave_Stairs_02x02_Basic 8
+    3300450: Cave_Stairs_02x02_Basic 9
+    3300452: Cave_Stairs_03x02_Basic
+    3300454: Cave_Stairs_03x02_Basic 1
+    3300456: Cave_Stairs_03x02_Basic 2
+    3300458: Cave_Stairs_03x02_Basic 3
+    3300460: Cave_Stairs_BottomL
+    3300462: Cave_Stairs_BottomL 1
+    3300464: Cave_Stairs_BottomL 2
+    3300466: Cave_Stairs_BottomL 3
+    3300468: Cave_Stairs_BottomL 4
+    3300470: Cave_Stairs_BottomL 5
+    3300472: Cave_Stairs_BottomL_02
+    3300474: Cave_Stairs_BottomL_02 1
+    3300476: Cave_Stairs_BottomR
+    3300478: Cave_Stairs_BottomR_02
+    3300480: Cave_Stairs_BottomR_02 1
+    3300482: Cave_Statue_LionFemale_01
+    3300484: Cave_Statue_LionFemale_01 1
+    3300486: Cave_Statue_LionFemale_01 2
+    3300488: Cave_Statue_LionFemale_ArmL_B
+    3300490: Cave_Statue_LionFemale_ArmL_C
+    3300492: Cave_Statue_LionFemale_ArmR_B
+    3300494: Cave_Statue_LionFemale_ArmR_C
+    3300496: Cave_Statue_LionMale_01
+    3300498: Cave_Statue_LionMale_01 1
+    3300500: Cave_Statue_LionMale_01 2
+    3300502: Cave_Statue_LionMale_01 3
+    3300504: Cave_Statue_LionMale_ArmL_A
+    3300506: Cave_Statue_LionMale_ArmL_B
+    3300508: Cave_Statue_LionMale_ArmR_A
+    3300510: Cave_Statue_LionMale_ArmR_B
+    3300512: Cave_Wall_01x01_CornerOut
+    3300514: Cave_Wall_01x01_CornerOut 1
+    3300516: Cave_Wall_01x01_CornerOut 2
+    3300518: Cave_Wall_01x01_CornerOut 3
+    3300520: Cave_Wall_01x01_CornerOut 4
+    3300522: Cave_Wall_01x01_CornerOut 5
+    3300524: Cave_Wall_01x01_CornerOutShort
+    3300526: Cave_Wall_01x01_CornerOutShort 1
+    3300528: Cave_Wall_01x01_CornerOutShort 10
+    3300530: Cave_Wall_01x01_CornerOutShort 11
+    3300532: Cave_Wall_01x01_CornerOutShort 12
+    3300534: Cave_Wall_01x01_CornerOutShort 13
+    3300536: Cave_Wall_01x01_CornerOutShort 14
+    3300538: Cave_Wall_01x01_CornerOutShort 2
+    3300540: Cave_Wall_01x01_CornerOutShort 3
+    3300542: Cave_Wall_01x01_CornerOutShort 4
+    3300544: Cave_Wall_01x01_CornerOutShort 5
+    3300546: Cave_Wall_01x01_CornerOutShort 6
+    3300548: Cave_Wall_01x01_CornerOutShort 7
+    3300550: Cave_Wall_01x01_CornerOutShort 8
+    3300552: Cave_Wall_01x01_CornerOutShort 9
+    3300554: Cave_Wall_01x04_Bottom
+    3300556: Cave_Wall_01x04_Bottom 1
+    3300558: Cave_Wall_01x04_Bottom 10
+    3300560: Cave_Wall_01x04_Bottom 11
+    3300562: Cave_Wall_01x04_Bottom 12
+    3300564: Cave_Wall_01x04_Bottom 13
+    3300566: Cave_Wall_01x04_Bottom 2
+    3300568: Cave_Wall_01x04_Bottom 3
+    3300570: Cave_Wall_01x04_Bottom 4
+    3300572: Cave_Wall_01x04_Bottom 5
+    3300574: Cave_Wall_01x04_Bottom 6
+    3300576: Cave_Wall_01x04_Bottom 7
+    3300578: Cave_Wall_01x04_Bottom 8
+    3300580: Cave_Wall_01x04_Bottom 9
+    3300582: Cave_Wall_01x04_BottomCornerIn
+    3300584: Cave_Wall_01x04_BottomCornerIn 1
+    3300586: Cave_Wall_01x04_BottomCornerIn 2
+    3300588: Cave_Wall_01x04_BottomCornerIn 3
+    3300590: Cave_Wall_01x04_BottomCornerIn 4
+    3300592: Cave_Wall_01x04_BottomCornerIn 5
+    3300594: Cave_Wall_01x04_BottomCornerOut
+    3300596: Cave_Wall_01x04_BottomCornerOut 1
+    3300598: Cave_Wall_01x04_BottomCornerOut 10
+    3300600: Cave_Wall_01x04_BottomCornerOut 11
+    3300602: Cave_Wall_01x04_BottomCornerOut 12
+    3300604: Cave_Wall_01x04_BottomCornerOut 13
+    3300606: Cave_Wall_01x04_BottomCornerOut 14
+    3300608: Cave_Wall_01x04_BottomCornerOut 15
+    3300610: Cave_Wall_01x04_BottomCornerOut 16
+    3300612: Cave_Wall_01x04_BottomCornerOut 17
+    3300614: Cave_Wall_01x04_BottomCornerOut 18
+    3300616: Cave_Wall_01x04_BottomCornerOut 19
+    3300618: Cave_Wall_01x04_BottomCornerOut 2
+    3300620: Cave_Wall_01x04_BottomCornerOut 20
+    3300622: Cave_Wall_01x04_BottomCornerOut 21
+    3300624: Cave_Wall_01x04_BottomCornerOut 22
+    3300626: Cave_Wall_01x04_BottomCornerOut 3
+    3300628: Cave_Wall_01x04_BottomCornerOut 4
+    3300630: Cave_Wall_01x04_BottomCornerOut 5
+    3300632: Cave_Wall_01x04_BottomCornerOut 6
+    3300634: Cave_Wall_01x04_BottomCornerOut 7
+    3300636: Cave_Wall_01x04_BottomCornerOut 8
+    3300638: Cave_Wall_01x04_BottomCornerOut 9
+    3300640: Cave_Wall_02x01_Basic
+    3300642: Cave_Wall_02x01_Basic 1
+    3300644: Cave_Wall_02x01_Basic 2
+    3300646: Cave_Wall_02x01_Basic 3
+    3300648: Cave_Wall_02x01_Short
+    3300650: Cave_Wall_02x01_Short 1
+    3300652: Cave_Wall_02x01_Short 10
+    3300654: Cave_Wall_02x01_Short 11
+    3300656: Cave_Wall_02x01_Short 12
+    3300658: Cave_Wall_02x01_Short 13
+    3300660: Cave_Wall_02x01_Short 14
+    3300662: Cave_Wall_02x01_Short 15
+    3300664: Cave_Wall_02x01_Short 16
+    3300666: Cave_Wall_02x01_Short 17
+    3300668: Cave_Wall_02x01_Short 18
+    3300670: Cave_Wall_02x01_Short 19
+    3300672: Cave_Wall_02x01_Short 2
+    3300674: Cave_Wall_02x01_Short 20
+    3300676: Cave_Wall_02x01_Short 21
+    3300678: Cave_Wall_02x01_Short 22
+    3300680: Cave_Wall_02x01_Short 23
+    3300682: Cave_Wall_02x01_Short 24
+    3300684: Cave_Wall_02x01_Short 3
+    3300686: Cave_Wall_02x01_Short 4
+    3300688: Cave_Wall_02x01_Short 5
+    3300690: Cave_Wall_02x01_Short 6
+    3300692: Cave_Wall_02x01_Short 7
+    3300694: Cave_Wall_02x01_Short 8
+    3300696: Cave_Wall_02x01_Short 9
+    3300698: Cave_Wall_02x01_Short_Broke
+    3300700: Cave_Wall_02x02_CornerIn
+    3300702: Cave_Wall_02x02_CornerIn 1
+    3300704: Cave_Wall_02x02_CornerIn 2
+    3300706: Cave_Wall_02x02_CornerIn 3
+    3300708: Cave_Wall_02x02_CornerIn 4
+    3300710: Cave_Wall_02x02_CornerIn 5
+    3300712: Cave_Wall_02x02_CornerIn 6
+    3300714: Cave_Wall_02x02_CornerIn 7
+    3300716: Cave_Wall_02x02_CornerInShort
+    3300718: Cave_Wall_02x02_CornerInShort 1
+    3300720: Cave_Wall_02x02_CornerInShort 2
+    3300722: Cave_Wall_02x02_CornerInShort 3
+    3300724: Cave_Wall_04x01_Basic
+    3300726: Cave_Wall_04x01_Basic 1
+    3300728: Cave_Wall_04x01_Basic 2
+    3300730: Cave_Wall_04x01_Basic 3
+    3300732: Cave_Wall_04x01_Basic 4
+    3300734: Cave_Wall_04x01_Basic_Broken
+    3300736: Cave_Wall_04x01_Nook
+    3300738: Cave_Wall_04x04_Bottom
+    3300740: Cave_Wall_04x04_Bottom 1
+    3300742: Cave_Wall_Arch_Full
+    3300744: Cave_Wall_PillarLarge
+    3300746: Cave_Wall_PillarLarge 1
+    3300748: Cave_Wall_PillarLarge 2
+    3300750: Cave_Wall_PillarLarge 3
+    3300752: Cave_Wall_PillarLarge 4
+    3300754: Cave_Wall_PillarLarge 5
+    3300756: Cave_Wall_PillarLarge 6
+    3300758: Cave_Wall_PillarLargeBottom
+    3300760: Cave_Wall_PillarLargeBottom 1
+    3300762: Cave_Wall_PillarLargeBottom 2
+    3300764: Cave_Wall_PillarLargeBottom 3
+    3300766: Cave_Wall_ShortEndL
+    3300768: Cave_Wall_ShortEndL 1
+    3300770: Cave_Wall_ShortEndL 2
+    3300772: Cave_Wall_ShortEndL 3
+    3300774: Cave_Wall_ShortEndL 4
+    3300776: Cave_Wall_ShortEndL 5
+    3300778: Cave_Wall_ShortEndL 6
+    3300780: Cave_Wall_ShortEndL 7
+    3300782: Cave_Wall_ShortEndL 8
+    3300784: Cave_Wall_ShortEndL 9
+    3300786: Cave_Wall_ShortEndLBottom
+    3300788: Cave_Wall_ShortEndLBottom 1
+    3300790: Cave_Wall_ShortEndLBottom 2
+    3300792: Cave_Wall_ShortEndLBottom 3
+    3300794: Cave_Wall_ShortEndR
+    3300796: Cave_Wall_ShortEndR 1
+    3300798: Cave_Wall_ShortEndR 2
+    3300800: Cave_Wall_ShortEndR 3
+    3300802: Cave_Wall_ShortEndR 4
+    3300804: Cave_Wall_ShortEndR 5
+    3300806: Cave_Wall_ShortEndR 6
+    3300808: Cave_Wall_ShortEndR 7
+    3300810: Cave_Wall_ShortEndRBottom
+    3300812: Cave_Wall_ShortEndRBottom 1
+    3300814: Cave_Wall_ShortEndRBottom 2
+    3300816: Cave_Wall_ShortEndRBottom 3
+    3300818: Cave_Water_WaterPlane_02
+    3300820: Cave_Water_WaterPlane_03
+    3300822: FX_Water_Ripple_06
+    3300824: FX_Water_Ripple_06 1
+    3300826: FX_Water_Ripple_06 2
+    4300000: Cave_Prop_Pot_A
+    4300002: Cave_Prop_Pot_A
+    4300004: Cave_Prop_Pot_A
+    4300006: Cave_Prop_Pot_B
+    4300008: Cave_Prop_Pot_B
+    4300010: Cave_Cliff_04x02_Bottom
+    4300012: Cave_Cliff_04x02_Bottom
+    4300014: Cave_Cliff_04x02_Bottom
+    4300016: Cave_Cliff_04x02_Bottom
+    4300018: Cave_Railing_02x01
+    4300020: Cave_Railing_02x01
+    4300022: Cave_Railing_02x01
+    4300024: Cave_Railing_01x01_CornerOut
+    4300026: Cave_Railing_02x01
+    4300028: Cave_Railing_02x01
+    4300030: Cave_Railing_01x01_CornerOut
+    4300032: Cave_Railing_02x01
+    4300034: Cave_Railing_02x01
+    4300036: Cave_Railing_02x01
+    4300038: Cave_Railing_02x01
+    4300040: Cave_Floor_01
+    4300042: Cave_Floor_01
+    4300044: Cave_Floor_01
+    4300046: Cave_Wall_04x04_Bottom
+    4300048: Cave_Floor_01
+    4300050: Cave_Water_WaterPlane_02
+    4300052: Cave_Prop_Boat_02
+    4300054: Cave_Water_WaterPlane_03
+    4300056: Cave_Statue_LionFemale_ArmR_B
+    4300058: Cave_Prop_HangingR_01
+    4300060: Cave_Prop_HangingL_01
+    4300062: Cave_Statue_LionFemale_ArmL_C
+    4300064: Cave_Statue_LionFemale_ArmL_B
+    4300066: Cave_Statue_LionFemale_01
+    4300068: Cave_Stairs_BottomR_02
+    4300070: Cave_Stairs_BottomR
+    4300072: Cave_Stairs_BottomL_02
+    4300074: Cave_Stairs_BottomL
+    4300076: Cave_Stairs_BottomL
+    4300078: Cave_Stairs_BottomL
+    4300080: Cave_Stairs_BottomL
+    4300082: Cave_Stairs_BottomL
+    4300084: Cave_Stairs_BottomL
+    4300086: Cave_Stairs_02x02_Bannister
+    4300088: Cave_Prop_Bench_01
+    4300090: Cave_Prop_Bench_01
+    4300092: Cave_Natural_Stalagmite_A
+    4300094: Cave_Natural_Stalagmite_A
+    4300096: Cave_Natural_RockBig_01
+    4300098: Cave_Natural_RockBig_01
+    4300100: Cave_Natural_RockBig_01
+    4300102: Cave_Natural_RockBig_01
+    4300104: Cave_Cliff_48x02_Filler_02
+    4300106: Cave_Cliff_48x02_Filler_01
+    4300108: Cave_Floor_04
+    4300110: Cave_Floor_01
+    4300112: Cave_Cliff_04x02_Bottom
+    4300114: Cave_Cliff_48x02_Filler_02
+    4300116: Cave_Cliff_48x02_Filler_01
+    4300118: Cave_Cliff_04x02_Basic
+    4300120: Cave_Cliff_04x02_Basic
+    4300122: Cave_Cliff_04x02_Basic
+    4300124: Cave_Cliff_04x02_Basic
+    4300126: Cave_Cliff_04x02_Basic
+    4300128: Cave_Cliff_04x02_Basic
+    4300130: Cave_Cliff_04x02_Basic
+    4300132: Cave_Cliff_04x02_Basic
+    4300134: Cave_Cliff_02x02_CornerOut
+    4300136: Cave_Cliff_02x02_CornerOut
+    4300138: Cave_Cliff_02x02_CornerInBottom
+    4300140: Cave_Cliff_02x02_CornerInBottom
+    4300142: Cave_Cliff_02x02_CornerInBottom
+    4300144: Cave_Cliff_02x02_CornerInBottom
+    4300146: Cave_Cliff_02x02_CornerInBottom
+    4300148: Cave_Cliff_02x02_CornerInBottom
+    4300150: Cave_Cliff_02x02_CornerIn
+    4300152: Cave_Cliff_02x02_CornerIn
+    4300154: Cave_Cliff_02x02_CornerIn
+    4300156: Cave_Cliff_02x02_CornerIn
+    4300158: Cave_Cliff_02x02_CornerIn
+    4300160: Cave_Cliff_02x02_CornerIn
+    4300162: Cave_Cliff_02x02_CornerIn
+    4300164: Cave_Cliff_02x02_Bottom
+    4300166: Cave_Cliff_02x02_Bottom
+    4300168: Cave_Cliff_02x02_Bottom
+    4300170: Cave_Cliff_02x02_Bottom
+    4300172: Cave_Cliff_02x02_Bottom
+    4300174: Cave_Cliff_02x02_Bottom
+    4300176: Cave_Cliff_02x02_Bottom
+    4300178: Cave_Cliff_02x02_Bottom
+    4300180: Cave_Cliff_02x02_Bottom
+    4300182: Cave_Cliff_02x02_Basic
+    4300184: Cave_Cliff_02x02_Basic
+    4300186: Cave_Cliff_02x02_Basic
+    4300188: Cave_Cliff_02x02_Basic
+    4300190: Cave_Cliff_02x02_Basic
+    4300192: Cave_Cliff_02x02_Basic
+    4300194: Cave_Wall_ShortEndRBottom
+    4300196: Cave_Wall_ShortEndRBottom
+    4300198: Cave_Wall_ShortEndRBottom
+    4300200: Cave_Wall_ShortEndRBottom
+    4300202: Cave_Wall_ShortEndR
+    4300204: Cave_Wall_ShortEndR
+    4300206: Cave_Wall_ShortEndLBottom
+    4300208: Cave_Wall_ShortEndLBottom
+    4300210: Cave_Wall_ShortEndLBottom
+    4300212: Cave_Wall_ShortEndLBottom
+    4300214: Cave_Wall_ShortEndL
+    4300216: Cave_Wall_ShortEndL
+    4300218: Cave_Wall_ShortEndL
+    4300220: Cave_Wall_PillarLarge
+    4300222: Cave_Wall_PillarLarge
+    4300224: Cave_Wall_Arch_Full
+    4300226: Cave_Wall_04x01_Basic
+    4300228: Cave_Wall_04x01_Basic
+    4300230: Cave_Wall_04x01_Basic
+    4300232: Cave_Wall_02x02_CornerInShort
+    4300234: Cave_Wall_02x02_CornerInShort
+    4300236: Cave_Wall_02x01_Short
+    4300238: Cave_Wall_02x01_Short
+    4300240: Cave_Wall_02x01_Short
+    4300242: Cave_Wall_02x01_Short
+    4300244: Cave_Wall_02x01_Short
+    4300246: Cave_Wall_02x01_Short
+    4300248: Cave_Wall_02x01_Short
+    4300250: Cave_Wall_02x01_Short
+    4300252: Cave_Wall_02x01_Short
+    4300254: Cave_Wall_01x04_BottomCornerOut
+    4300256: Cave_Wall_01x04_BottomCornerOut
+    4300258: Cave_Wall_01x04_BottomCornerOut
+    4300260: Cave_Wall_01x04_BottomCornerOut
+    4300262: Cave_Wall_01x04_BottomCornerOut
+    4300264: Cave_Wall_01x04_BottomCornerOut
+    4300266: Cave_Wall_01x04_BottomCornerOut
+    4300268: Cave_Wall_01x04_BottomCornerOut
+    4300270: Cave_Wall_01x04_BottomCornerOut
+    4300272: Cave_Wall_01x04_BottomCornerOut
+    4300274: Cave_Wall_01x04_BottomCornerOut
+    4300276: Cave_Wall_01x04_BottomCornerOut
+    4300278: Cave_Wall_01x04_BottomCornerOut
+    4300280: Cave_Wall_01x04_BottomCornerOut
+    4300282: Cave_Wall_01x04_BottomCornerOut
+    4300284: Cave_Wall_01x04_BottomCornerOut
+    4300286: Cave_Wall_01x04_BottomCornerOut
+    4300288: Cave_Wall_01x04_BottomCornerOut
+    4300290: Cave_Wall_01x04_BottomCornerOut
+    4300292: Cave_Wall_01x04_BottomCornerOut
+    4300294: Cave_Wall_01x04_BottomCornerOut
+    4300296: Cave_Wall_01x04_BottomCornerIn
+    4300298: Cave_Wall_01x04_BottomCornerIn
+    4300300: Cave_Wall_01x04_BottomCornerIn
+    4300302: Cave_Wall_01x04_BottomCornerIn
+    4300304: Cave_Wall_01x04_BottomCornerIn
+    4300306: Cave_Wall_01x04_BottomCornerIn
+    4300308: Cave_Wall_01x04_Bottom
+    4300310: Cave_Wall_01x04_Bottom
+    4300312: Cave_Wall_01x04_Bottom
+    4300314: Cave_Wall_01x04_Bottom
+    4300316: Cave_Wall_01x04_Bottom
+    4300318: Cave_Wall_01x04_Bottom
+    4300320: Cave_Wall_01x04_Bottom
+    4300322: Cave_Wall_01x04_Bottom
+    4300324: Cave_Wall_01x04_Bottom
+    4300326: Cave_Wall_01x04_Bottom
+    4300328: Cave_Wall_01x04_Bottom
+    4300330: Cave_Wall_01x04_Bottom
+    4300332: Cave_Wall_01x04_Bottom
+    4300334: Cave_Wall_01x04_Bottom
+    4300336: Cave_Wall_01x01_CornerOutShort
+    4300338: Cave_Statue_LionMale_ArmR_B
+    4300340: Cave_Statue_LionMale_ArmR_A
+    4300342: Cave_Statue_LionMale_ArmL_B
+    4300344: Cave_Statue_LionMale_ArmL_A
+    4300346: Cave_Statue_LionFemale_ArmR_C
+    4300348: Cave_Natural_RockBig_01
+    4300350: Cave_Cliff_48x02_Filler_01
+    4300352: Cave_Cliff_48x02_Filler_01
+    4300354: Cave_Cliff_02x02_CornerIn
+    4300356: Cave_Wall_04x04_Bottom
+    4300358: Cave_Wall_02x02_CornerIn
+    4300360: Cave_Stairs_02x02_Basic
+    4300362: Cave_Wall_02x02_CornerIn
+    4300364: Cave_Stairs_02x02_Basic
+    4300366: Cave_Stairs_02x02_BannisterHalf
+    4300368: Cave_Stairs_02x02_Bannister
+    4300370: Cave_Stairs_02x02_Bannister
+    4300372: Cave_Stairs_01x01_CapTop
+    4300374: Cave_Stairs_01x01_CapTop
+    4300376: Cave_Stairs_02x02_BannisterHalf
+    4300378: Cave_Wall_02x01_Basic
+    4300380: Cave_Stairs_02x02_Bannister
+    4300382: Cave_Stairs_01x01_CapTop
+    4300384: Cave_Stairs_02x02_Bannister
+    4300386: Cave_Stairs_02x02_Bannister
+    4300388: Cave_Stairs_02x02_BannisterHalf
+    4300390: Cave_Stairs_01x01_CapTop
+    4300392: Cave_Wall_ShortEndR
+    4300394: Cave_Prop_Candle_02
+    4300396: Cave_Stairs_01x01_CapTop
+    4300398: Cave_Stairs_02x02_Bannister
+    4300400: Cave_Stairs_01x01_CapTop
+    4300402: Cave_Stairs_02x02_Bannister
+    4300404: Cave_Stairs_02x02_Bannister
+    4300406: Cave_Stairs_02x02_Bannister
+    4300408: Cave_Stairs_01x01_CapTop
+    4300410: Cave_Stairs_01x01_CapTop
+    4300412: Cave_Stairs_BottomR_02
+    4300414: Cave_Stairs_01x01_CapTop
+    4300416: Cave_Prop_Block_01
+    4300418: Cave_Prop_Rubble_01
+    4300420: Cave_Wall_ShortEndL
+    4300422: Cave_Stairs_02x02_Bannister
+    4300424: Cave_Stairs_02x02_BannisterHalf
+    4300426: Cave_Stairs_02x02_Bannister
+    4300428: Cave_Stairs_02x02_BannisterHalf
+    4300430: Cave_Stairs_02x02_BannisterHalf
+    4300432: Cave_Stairs_02x02_Bannister
+    4300434: Cave_Stairs_02x02_Bannister
+    4300436: Cave_Stairs_02x02_Bannister
+    4300438: Cave_Stairs_02x02_BannisterHalf
+    4300440: Cave_Stairs_02x02_BannisterHalf
+    4300442: Cave_Stairs_02x02_Bannister
+    4300444: Cave_Stairs_02x02_BannisterHalf
+    4300446: Cave_Stairs_02x02_Bannister
+    4300448: Cave_Stairs_01x01_CapTop
+    4300450: Cave_Stairs_02x02_Bannister
+    4300452: Cave_Stairs_01x01_CapTop
+    4300454: Cave_Stairs_02x02_Bannister
+    4300456: Cave_Stairs_01x01_CapTop
+    4300458: Cave_Stairs_BottomL_02
+    4300460: Cave_Stairs_02x02_Bannister
+    4300462: Cave_Stairs_01x01_CapTop
+    4300464: Cave_Stairs_01x01_CapTop
+    4300466: Cave_Prop_Bench_01
+    4300468: Cave_Prop_Bench_01
+    4300470: Cave_Wall_02x02_CornerInShort
+    4300472: Cave_Wall_02x02_CornerInShort
+    4300474: Cave_Wall_02x02_CornerIn
+    4300476: Cave_Wall_02x02_CornerIn
+    4300478: Cave_Wall_02x02_CornerIn
+    4300480: Cave_Wall_02x02_CornerIn
+    4300482: Cave_Wall_02x02_CornerIn
+    4300484: Cave_Wall_02x02_CornerIn
+    4300486: Cave_Wall_02x01_Short_Broke
+    4300488: Cave_Wall_02x01_Short
+    4300490: Cave_Wall_02x01_Short
+    4300492: Cave_Wall_02x01_Short
+    4300494: Cave_Wall_02x01_Short
+    4300496: Cave_Wall_02x01_Short
+    4300498: Cave_Wall_02x01_Short
+    4300500: Cave_Wall_02x01_Short
+    4300502: Cave_Wall_02x01_Short
+    4300504: Cave_Wall_02x01_Short
+    4300506: Cave_Wall_02x01_Short
+    4300508: Cave_Wall_02x01_Short
+    4300510: Cave_Wall_02x01_Short
+    4300512: Cave_Wall_02x01_Short
+    4300514: Cave_Wall_02x01_Short
+    4300516: Cave_Wall_02x01_Short
+    4300518: Cave_Wall_02x01_Short
+    4300520: Cave_Wall_02x01_Basic
+    4300522: Cave_Wall_02x01_Basic
+    4300524: Cave_Wall_02x01_Basic
+    4300526: Cave_Wall_01x04_BottomCornerOut
+    4300528: Cave_Wall_01x04_BottomCornerOut
+    4300530: Cave_Wall_01x01_CornerOutShort
+    4300532: Cave_Wall_01x01_CornerOutShort
+    4300534: Cave_Wall_01x01_CornerOutShort
+    4300536: Cave_Wall_01x01_CornerOutShort
+    4300538: Cave_Wall_01x01_CornerOutShort
+    4300540: Cave_Wall_01x01_CornerOutShort
+    4300542: Cave_Wall_01x01_CornerOutShort
+    4300544: Cave_Wall_01x01_CornerOutShort
+    4300546: Cave_Wall_01x01_CornerOutShort
+    4300548: Cave_Wall_01x01_CornerOutShort
+    4300550: Cave_Wall_01x01_CornerOutShort
+    4300552: Cave_Wall_01x01_CornerOutShort
+    4300554: Cave_Wall_01x01_CornerOutShort
+    4300556: Cave_Wall_01x01_CornerOutShort
+    4300558: Cave_Wall_01x01_CornerOut
+    4300560: Cave_Wall_01x01_CornerOut
+    4300562: Cave_Wall_01x01_CornerOut
+    4300564: Cave_Wall_01x01_CornerOut
+    4300566: Cave_Wall_01x01_CornerOut
+    4300568: Cave_Wall_01x01_CornerOut
+    4300570: Cave_Statue_LionMale_01
+    4300572: Cave_Statue_LionMale_01
+    4300574: Cave_Statue_LionMale_01
+    4300576: Cave_Statue_LionMale_01
+    4300578: Cave_Statue_LionFemale_01
+    4300580: Cave_Statue_LionFemale_01
+    4300582: Cave_Prop_Table_03
+    4300584: Cave_Prop_Table_01
+    4300586: Cave_Cliff_04x02_Bottom
+    4300588: Cave_Wall_ShortEndL
+    4300590: Cave_Wall_ShortEndR
+    4300592: Cave_Wall_ShortEndL
+    4300594: Cave_Wall_PillarLarge
+    4300596: Cave_Wall_PillarLarge
+    4300598: Cave_Cliff_02x02_CornerInBottom
+    4300600: Cave_Cliff_02x02_CornerInBottom
+    4300602: Cave_Cliff_02x02_CornerInBottom
+    4300604: Cave_Cliff_02x02_CornerIn
+    4300606: Cave_Cliff_02x02_CornerIn
+    4300608: Cave_Cliff_02x02_CornerIn
+    4300610: Cave_Cliff_02x02_CornerIn
+    4300612: Cave_Cliff_02x02_Bottom
+    4300614: Cave_Cliff_02x02_Basic
+    4300616: Cave_Cliff_02x02_Basic
+    4300618: Cave_Cliff_02x02_Basic
+    4300620: Cave_Cliff_02x02_Basic
+    4300622: Cave_Cliff_02x02_Basic
+    4300624: Cave_Wall_ShortEndR
+    4300626: Cave_Wall_ShortEndR
+    4300628: Cave_Wall_ShortEndR
+    4300630: Cave_Wall_ShortEndR
+    4300632: Cave_Wall_ShortEndL
+    4300634: Cave_Wall_ShortEndL
+    4300636: Cave_Wall_ShortEndL
+    4300638: Cave_Wall_ShortEndL
+    4300640: Cave_Wall_PillarLargeBottom
+    4300642: Cave_Wall_PillarLargeBottom
+    4300644: Cave_Wall_PillarLargeBottom
+    4300646: Cave_Wall_PillarLargeBottom
+    4300648: Cave_Wall_PillarLarge
+    4300650: Cave_Wall_PillarLarge
+    4300652: Cave_Wall_PillarLarge
+    4300654: Cave_Wall_04x01_Nook
+    4300656: Cave_Wall_04x01_Basic_Broken
+    4300658: Cave_Wall_04x01_Basic
+    4300660: Cave_Wall_04x01_Basic
+    4300662: Cave_Prop_Rug_01
+    4300664: Cave_Prop_Rug_01
+    4300666: Cave_Prop_Rug_01
+    4300668: Cave_Floor_05
+    4300670: Cave_Floor_05
+    4300672: Cave_Floor_PathHub
+    4300674: Cave_Floor_PathHub
+    4300676: Cave_Floor_PathHub
+    4300678: Cave_Floor_PathHub
+    4300680: Cave_Floor_PathHub
+    4300682: Cave_Floor_04
+    4300684: Cave_Floor_03
+    4300686: Cave_Floor_03
+    4300688: Cave_Floor_03
+    4300690: Cave_Floor_03
+    4300692: Cave_Floor_03
+    4300694: Cave_Floor_02
+    4300696: Cave_Floor_02
+    4300698: Cave_Floor_02
+    4300700: Cave_Floor_01
+    4300702: Cave_Floor_01
+    4300704: Cave_Floor_01
+    4300706: Cave_Floor_01
+    4300708: Cave_Floor_01
+    4300710: Cave_Floor_01
+    4300712: Cave_Floor_01
+    4300714: Cave_Stairs_03x02_Basic
+    4300716: Cave_Stairs_03x02_Basic
+    4300718: Cave_Stairs_03x02_Basic
+    4300720: Cave_Stairs_03x02_Basic
+    4300722: Cave_Stairs_02x02_Basic
+    4300724: Cave_Stairs_02x02_Basic
+    4300726: Cave_Stairs_02x02_Basic
+    4300728: Cave_Stairs_02x02_Basic
+    4300730: Cave_Stairs_02x02_Basic
+    4300732: Cave_Stairs_02x02_Basic
+    4300734: Cave_Stairs_02x02_Basic
+    4300736: Cave_Stairs_02x02_Basic
+    4300738: Cave_Stairs_02x02_Basic
+    4300740: Cave_Stairs_02x02_Basic
+    4300742: Cave_Stairs_02x02_Basic
+    4300744: Cave_Stairs_02x02_Basic
+    4300746: Cave_Stairs_02x02_Basic
+    4300748: Cave_Stairs_02x02_Basic
+    4300750: Cave_Stairs_02x02_Basic
+    4300752: Cave_Stairs_02x02_Basic
+    4300754: Cave_Stairs_02x02_Basic
+    4300756: Cave_Stairs_02x02_Basic
+    4300758: Cave_Stairs_02x02_Basic
+    4300760: Cave_Stairs_02x02_Basic
+    4300762: Cave_Floor_05
+    4300764: Cave_Floor_05
+    4300766: Cave_Floor_05
+    4300768: Cave_Floor_05
+    4300770: Cave_Floor_05
+    4300772: Cave_Floor_05
+    4300774: Cave_Floor_05
+    4300776: Cave_Floor_06
+    4300778: Cave_Floor_05
+    4300780: Cave_Floor_06
+    4300782: Cave_Floor_05
+    4300784: Cave_Floor_06
+    4300786: Cave_Floor_06
+    4300788: Cave_Floor_06
+    4300790: Cave_Floor_06
+    4300792: Cave_Floor_06
+    4300794: Cave_Floor_05
+    4300796: Cave_Floor_06
+    4300798: Cave_Floor_05
+    4300800: Cave_Floor_06
+    4300802: Cave_Floor_05
+    4300804: Cave_Floor_05
+    4300806: Cave_Floor_06
+    4300808: Cave_Floor_05
+    4300810: Cave_Floor_05
+    4300812: Cave_Floor_05
+    4300814: Cave_Floor_05
+    4300816: Cave_Floor_05
+    4300818: Cave_Floor_05
+    4300820: FX_Water_Ripple_06
+    4300822: FX_Water_Ripple_06
+    4300824: FX_Water_Ripple_06
+    4300826: Cave_Prop_Boat_003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
