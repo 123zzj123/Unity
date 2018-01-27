@@ -19,6 +19,7 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
     private string Player2Doll_Path;
     private string Panel1_Path;
     private string Panel2_Path;
+    private int count = -1;//间隔时间操作
     // Use this for initialization
     void Awake()
     //创建导演实例并载入资源
@@ -42,6 +43,10 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
     // Update is called once per frame
     void Update()
     {
+        if(count >= 0)
+        {
+            count--;
+        }
         UIPanel1.transform.position = new Vector3(player1.transform.position.x + 0.5f, player1.transform.position.y + 2.45f, player1.transform.position.z);//角色属性面板跟随玩家
         UIPanel1.transform.rotation = Camera.main.transform.rotation;//属性面板朝向摄像机
         UIPanel1.GetComponentInChildren<MyUISlider>().UpdateVal(player1.GetComponent<Role>().hp / 100);//实时更新玩家的血量
@@ -60,9 +65,13 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
     {
         filemanager = other;
     }
-    public GameObject GetPlayer()
+    public GameObject GetPlayer1()
     {
         return player1;//返回玩家
+    }
+    public GameObject GetPlayer2()
+    {
+        return player2;
     }
     public GameObject GetUIPanel2()
     {
@@ -140,11 +149,12 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
     public void Attack1()
     {
         AnimatorStateInfo stateinfo = P_ani.GetCurrentAnimatorStateInfo(0);
-        if (player1.GetComponent<Role>().mp >= 5 && !stateinfo.IsName("Base Layer.Attack1"))
+        if (player1.GetComponent<Role>().mp >= 5 && count < 0)
             //魔法值足够且攻击完毕
         {
             P_ani.SetInteger("state", 2);
             P_ani.Play("Attack1", 0);
+            count = player1.GetComponent<Role>().CDtime1;
             //播放攻击1动画
             player1.GetComponent<Role>().mp -= 5;//魔法值减
             /*
@@ -157,12 +167,13 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
     public void Attack2()
     {
         AnimatorStateInfo stateinfo = P_ani.GetCurrentAnimatorStateInfo(0);
-        if (player1.GetComponent<Role>().mp >= 5 && !stateinfo.IsName("Base Layer.Attack2"))
+        if (player1.GetComponent<Role>().mp >= 5 && count < 0)
         //魔法值足够且攻击完毕
         {
             P_ani.SetInteger("state", 3);
             P_ani.Play("Attack2", 0);
             //播放攻击2动画
+            count = player1.GetComponent<Role>().CDtime2;
             player1.GetComponent<Role>().mp -= 5;//魔法值减
             /*
              * 获取特效并且定位释放
@@ -173,12 +184,13 @@ public class SceneController : MonoBehaviour, ISceneController, IUserAction
     public void Attack3()
     {
         AnimatorStateInfo stateinfo = P_ani.GetCurrentAnimatorStateInfo(0);
-        if (player1.GetComponent<Role>().mp >= 10 && !stateinfo.IsName("Base Layer.Attack3"))
+        if (player1.GetComponent<Role>().mp >= 10 && count < 0)
         //魔法值足够且攻击完毕
         {
             P_ani.SetInteger("state", 4);
             P_ani.Play("Attack3", 0);
             //播放攻击3动画
+            count = player1.GetComponent<Role>().CDtime3;
             player1.GetComponent<Role>().mp -= 10;//魔法值减
             /*
              * 获取特效并且定位释放

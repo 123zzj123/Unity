@@ -12,6 +12,7 @@ public class Role : MonoBehaviour {
     public int CDtime2;
     public int CDtime3;
     public float speed;
+    public Vector3 LocalPos;
     private int count = 0;//用于计时
     private float Hp = 100;//生命值
     private float Mp = 100;//魔法值
@@ -46,10 +47,11 @@ public class Role : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         count++;
-        if(count >= recoverTime)
+        if(count >= recoverTime && Mp <= 100)
         {
             count = 0;
             Mp += 2;//魔法值恢复
+            Mp = Mp > 100 ? 100 : Mp;
         }
 
         if(Hp <= 0)

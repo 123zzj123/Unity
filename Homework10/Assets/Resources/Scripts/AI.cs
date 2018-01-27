@@ -16,7 +16,7 @@ public class AI : MonoBehaviour {
     private GameObject UIPanel2;//AI属性面板
     private Factory factory;//工厂
     private int state = 0;//AI状态
-    private int count = 120;//间隔时间操作
+    private int count = -1;//间隔时间操作
     private float AIthinkLastTime;//AI上次思考的时间
     public float step = 1;//移动速度
     private Animator AI_ani;//AI动画状态控制机
@@ -32,7 +32,7 @@ public class AI : MonoBehaviour {
     // Use this for initialization
     void Start () {
         sceneController = SSDirector.getInstance().currentScenceController as SceneController;//获取场记
-        player1 = sceneController.GetPlayer();//获取玩家
+        player1 = sceneController.GetPlayer1();//获取玩家
         UIPanel2 = sceneController.GetUIPanel2();//获取面板
         AI_ani = GetComponent<Animator>();
         factory = Singleton<Factory>.Instance;//获取工厂
@@ -107,17 +107,17 @@ public class AI : MonoBehaviour {
     {
         //选择攻击状态
         float R = Random.value;
-        if (R < 0)
+        if (R < 0.1)
         {
             state = Jump;
-            count = 40;
+            count = 80;
         }
-        else if(R < 0)
+        else if(R < 0.4)
         {
             state = Attack1;
             count = GetComponent<Role>().CDtime1;
         }
-        else if(R < 0)
+        else if(R < 0.7)
         {
             state = Attack2;
             count = GetComponent<Role>().CDtime2;
@@ -131,13 +131,13 @@ public class AI : MonoBehaviour {
     void UpState()
     {
         float distance = Vector3.Distance(player1.transform.position, transform.position);//相对距离
-        if(distance <= 2  && count == 120) //距离小于可攻击距离，且可进行下步操作
+        if(distance <= 2  && count < 0) //距离小于可攻击距离，且可进行下步操作
         {
             ChooseAttackState();
         }
-        else if(count < 120)
+        else if(count >= 0)
         {
-            count++;
+            count--;
             return;
         }
         switch (state)

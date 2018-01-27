@@ -6,7 +6,10 @@ public class MyUISlider1 : MonoBehaviour {
     UIProgressBar mBar;
     // Use this for initialization
     void Start () {
-        mBar = GetComponent<UIProgressBar>();
+        if (mBar == null)
+        {
+            mBar = GetComponent<UIProgressBar>();
+        }
     }
 	
 	// Update is called once per frame
@@ -16,6 +19,10 @@ public class MyUISlider1 : MonoBehaviour {
 
     public void UpdateVal(float value)
     {
+        if (mBar == null)
+        {
+            mBar = GetComponent<UIProgressBar>();
+        }
         mBar.value = value;//更新UISlider的值
     }
 }

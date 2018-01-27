@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Resources/Scene/task3.unity
+  isLoaded: 1
+  isActive: 1
